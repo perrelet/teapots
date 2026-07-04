@@ -15,6 +15,10 @@ tags: [hidden-truth, spout, two-chambers, trick-vessel]
 creator:
 source: "Traditional Chinese two-chamber deception teapot ('assassin's' / 'two-heart' teapot); origin legendary, often attributed to the Ming dynasty"
 confidence: verified
+image: assets/assassin-teapot.jpg
+image_license: "CC BY-SA 4.0"
+image_credit: "acacuss (Wikimedia Commons)"
+image_source: "https://commons.wikimedia.org/wiki/File:The_assassin's_teapot_and_the_greedy_cup.jpg"
 links: []
 ---
 One pot, two sealed internal chambers, each with its own hidden air hole near the

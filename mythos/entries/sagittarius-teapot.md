@@ -15,6 +15,10 @@ tags: [pareidolia, celestial, spout]
 creator:
 source: "Asterism formed by eight bright stars of Sagittarius; the Milky Way's galactic centre lies off the spout"
 confidence: verified
+image: assets/sagittarius-teapot.jpg
+image_license: "Public domain"
+image_credit: "Eoghanacht (Wikimedia Commons)"
+image_source: "https://commons.wikimedia.org/wiki/File:Sagittarius-teapot-asterism.jpg"
 links: []
 ---
 Eight bright stars of Sagittarius form an unmistakable teapot — bowl, handle,

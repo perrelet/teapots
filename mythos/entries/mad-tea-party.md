@@ -15,6 +15,10 @@ tags: [nonsense, dormouse, scoped-to-moment]
 creator: "Lewis Carroll"
 source: "Alice's Adventures in Wonderland (1865), ch. VII; the Dormouse is stuffed into the teapot"
 confidence: verified
+image: assets/mad-tea-party.jpg
+image_license: "Public domain"
+image_credit: "John Tenniel, 1865"
+image_source: "https://commons.wikimedia.org/wiki/File:John_Tenniel-_Alice's_mad_tea_party,_colour.jpg"
 links: []
 ---
 Carroll's Mad Tea Party stages tea ritual as pure disorder — riddles without

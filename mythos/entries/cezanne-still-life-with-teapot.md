@@ -15,6 +15,10 @@ tags: [post-impressionism, pure-form, still-life]
 creator: "Paul Cézanne"
 source: "Still Life with Teapot, oil on canvas, c. 1902–1906"
 confidence: verified
+image: assets/cezanne-still-life-with-teapot.jpg
+image_license: "Public domain (CC0)"
+image_credit: "Paul Cezanne; digitized by Amgueddfa Cymru - Museum Wales"
+image_source: "https://commons.wikimedia.org/wiki/File:Amgueddfa_Cymru_-_Bywyd_Llonydd_%C3%A2_Thebot_-_Still_life_with_teapot_-_2368.jpeg"
 links: []
 ---
 Cézanne's teapot sits among fruit and crockery on a draped table, one weight in

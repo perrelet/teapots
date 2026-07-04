@@ -15,6 +15,11 @@ tags: [apostrophe, object-lifecycle, transience, colonial-trade]
 creator: "Joanna Baillie"
 source: "Poem, in Fugitive Verses (1840), addressed to a Chinese porcelain teapot"
 confidence: verified
+image: assets/baillie-lines-to-a-teapot.jpg
+image_license: "Public domain"
+image_credit: "Mary Ann Knight (1776-1851), portrait of Joanna Baillie"
+image_source: "https://commons.wikimedia.org/wiki/File:Joanna_Baillie_by_Mary_Ann_Knight.jpg"
+image_note: "portrait of the poet"
 links: []
 ---
 The Scottish poet-playwright's poem is addressed *to* a Chinese porcelain teapot,

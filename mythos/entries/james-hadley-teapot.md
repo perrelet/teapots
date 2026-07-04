@@ -15,6 +15,10 @@ tags: [aestheticism, wilde, satire]
 creator: "James Hadley (Royal Worcester)"
 source: "Royal Worcester porcelain teapot, 1882, satirising the Aesthetic Movement"
 confidence: verified
+image: assets/james-hadley-teapot.jpg
+image_license: "CC0 (photo); object public domain"
+image_credit: "Photo Daderot; object at the Art Institute of Chicago"
+image_source: "https://commons.wikimedia.org/wiki/File:Aesthetic_Movement_Teapot_(Oscar_Wilde_Teapon),_1882,_Worcester_Royal_Porcelain_Company,_designed_by_James_Hadley,_glazed_parian_ware_-_Art_Institute_of_Chicago_-_DSC09892.JPG"
 links: []
 ---
 A porcelain teapot modelled as a limp Aesthetic figure — languid youth on one

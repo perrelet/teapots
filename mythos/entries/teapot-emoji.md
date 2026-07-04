@@ -15,6 +15,10 @@ tags: [self-naming, unicode, spill-the-tea, digital-model]
 creator: "Unicode Consortium (Emoji 13.0)"
 source: "U+1FAD6 TEAPOT, released March 2020 in Unicode/Emoji 13.0 after long campaigning"
 confidence: verified
+image: assets/teapot-emoji.svg
+image_license: "CC BY 4.0"
+image_credit: "Twemoji (Twitter/X), maintained by jdecked"
+image_source: "https://github.com/jdecked/twemoji"
 links: []
 ---
 The teapot pictograph (U+1FAD6), added to Unicode only in 2020 — conspicuously

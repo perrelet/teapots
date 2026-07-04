@@ -15,6 +15,11 @@ tags: [self-naming, first-performance, embodiment]
 creator: "George Harold Sanders & Clarence Z. Kelley"
 source: "Novelty song, 1939, written for children's dance classes"
 confidence: verified
+image: assets/im-a-little-teapot.jpg
+image_license: "CC BY-SA 2.5"
+image_credit: "Haragayato (Wikimedia Commons)"
+image_source: "https://commons.wikimedia.org/wiki/File:A_tea_pot.jpg"
+image_note: "illustrative stand-in"
 links: []
 ---
 Written in 1939 for young children who couldn't master a tap routine: a song

@@ -14,6 +14,10 @@ stance: earnest
 tags: [char:agency, char:anthropomorphic, char:role-protagonist, char:arc-service, brokenness-repair, service, object-lifecycle]
 creator: "Hans Christian Andersen"
 confidence: verified
+image: assets/andersens-teapot.png
+image_license: "Public domain"
+image_credit: "Lorenz Frolich (1820-1908), 1871 illustration for Andersen's 'The Teapot'"
+image_source: "https://commons.wikimedia.org/wiki/File:Nye_Eventyr_og_Historier_II_s_235_-_Theepotten.png"
 links: []
 ---
 Andersen's teapot begins proud — boasting of its porcelain, spout and handle

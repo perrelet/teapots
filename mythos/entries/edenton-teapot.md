@@ -15,6 +15,10 @@ tags: [women, resistance, commemoration]
 creator: "Frank Baldwin (bronze cast, 1905)"
 source: "Bronze teapot atop a Revolutionary-War cannon, Edenton, NC; commemorates the 1774 Edenton Tea Party; monument cast 1905 by Frank Baldwin"
 confidence: verified
+image: assets/edenton-teapot.jpg
+image_license: "CC BY-SA 4.0"
+image_credit: "Frank C Jones (Wikimedia Commons)"
+image_source: "https://commons.wikimedia.org/wiki/File:Edenton_Teapot.jpg"
 links: []
 ---
 A ~250-lb bronze teapot mounted atop an upright Revolutionary-War cannon barrel

@@ -15,6 +15,10 @@ tags: [namesake, effigy, roadside-novelty]
 creator: "Jack Ainsworth"
 source: "Teapot Dome Service Station, Zillah, Washington, built 1922 by Jack Ainsworth; NRHP-listed 1985; relocated 2012"
 confidence: verified
+image: assets/teapot-dome-station.jpg
+image_license: "Public domain (no known restrictions)"
+image_credit: "John Margolies / Library of Congress"
+image_source: "https://commons.wikimedia.org/wiki/File:Teapot_Dome_gas_station,_Zillah,_Washington_LOC_37143736243.jpg"
 links:
   - {to: teapot-rock, type: namesake}
   - {to: teapot-dome-scandal, type: namesake}

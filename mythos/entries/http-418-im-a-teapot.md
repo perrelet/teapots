@@ -15,6 +15,11 @@ tags: [self-naming, conscientious-objector, refusal-to-brew, april-fools, techni
 creator: "Larry Masinter (RFC 2324, IETF)"
 source: "RFC 2324 (HTCPCP, 1 April 1998); extended RFC 7168 (2014); 'Save 418' movement 2017"
 confidence: verified
+image: assets/http-418-im-a-teapot.svg
+image_license: "CC0"
+image_credit: "donchico / Openclipart"
+image_source: "https://commons.wikimedia.org/wiki/File:Tea_pot.svg"
+image_note: "illustrative stand-in (CC0 teapot icon)"
 links: []   # no referential edges — kinship to im-a-little-teapot etc. is the shared `self-naming` tag
 ---
 Defined in the April Fools' RFC 2324, the Hyper Text Coffee Pot Control

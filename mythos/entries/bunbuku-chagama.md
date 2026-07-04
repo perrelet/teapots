@@ -15,6 +15,10 @@ tags: [char:agency, char:anthropomorphic, char:role-protagonist, char:arc-refusa
 creator:
 source: "Japanese folktale; a relic teakettle is kept at Morin-ji temple, Gunma"
 confidence: verified
+image: assets/bunbuku-chagama.jpg
+image_license: "Public domain"
+image_credit: "Tsukioka Yoshitoshi (1839-1892), c.1889-92"
+image_source: "https://commons.wikimedia.org/wiki/File:Yoshitoshi_Bunbuku_Chagama.jpg"
 links: []
 ---
 A tanuki (badger) shape-shifts into a bronze tea kettle and lands in a temple;
