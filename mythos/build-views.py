@@ -257,7 +257,8 @@ def build_index():
             "- [by-ontology.md](by-ontology.md) — the central register axis\n"
             "- [by-mode.md](by-mode.md) — the interpretive spine\n"
             "- [by-spout.md](by-spout.md) — the spout hypothesis cross-tab\n"
-            "- [by-domain.md](by-domain.md) — field of activity\n")
+            "- [by-domain.md](by-domain.md) — field of activity\n"
+            "- [gallery.html](gallery.html) — visual thumbnail gallery (view via GitHub Pages)\n")
 
 
 # ---- image credits (written into assets/) ------------------------------------
@@ -295,3 +296,164 @@ print(f"spout yes/no/n-a: "
       f"{sum(1 for e in central if e['spout']=='n-a')}")
 print(f"self-naming: {len(tagged('self-naming'))}")
 print("wrote:", ", ".join(sorted(p.name for p in VIEWS.glob('*.md'))))
+
+
+# ---- images: thumbnails + static HTML gallery --------------------------------
+ONTCOLOR = {
+    "conceptual": "#6b5b95", "material": "#b5651d", "natural": "#4a7c59",
+    "fictional": "#c1502e", "virtual": "#2a6f97", "representational": "#8e7cc3",
+    "linguistic": "#c9a227", "performative": "#c2456e", "discursive": "#3a7ca5",
+}
+BLOB = "https://github.com/perrelet/teapot-mythos/blob/main/mythos/entries/"
+
+
+def esc(s):
+    return (s.replace("&", "&amp;").replace("<", "&lt;")
+             .replace(">", "&gt;").replace('"', "&quot;"))
+
+
+def build_thumbs():
+    try:
+        from PIL import Image
+    except ImportError:
+        print("Pillow missing; skipping thumbnails")
+        return 0
+    tdir = ROOT / "assets" / "thumbs"
+    tdir.mkdir(parents=True, exist_ok=True)
+    n = 0
+    for e in entries:
+        img = e.get("image", "")
+        if not img or img.endswith(".svg"):
+            continue
+        dst = tdir / pathlib.Path(img).name
+        try:
+            im = Image.open(ROOT / img)
+            im.thumbnail((400, 400))
+            if dst.suffix.lower() in (".jpg", ".jpeg") and im.mode in ("RGBA", "P", "LA"):
+                im = im.convert("RGB")
+            im.save(dst)
+            n += 1
+        except Exception as ex:  # noqa
+            print("thumb fail", img, ex)
+    return n
+
+
+def _thumb_src(e):
+    img = e.get("image", "")
+    if not img:
+        return ""
+    if img.endswith(".svg"):
+        return "../" + img
+    return "../assets/thumbs/" + pathlib.Path(img).name
+
+
+GALLERY_TEMPLATE = """<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Teapot Mythos — gallery</title>
+<style>
+:root{--bg:#f7f3ec;--card:#fff;--ink:#2b2118;--muted:#7c6f60;--line:#e6ddcf;}
+*{box-sizing:border-box}
+body{margin:0;font:16px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;background:var(--bg);color:var(--ink)}
+header{padding:28px 20px 8px;max-width:1200px;margin:0 auto}
+h1{margin:0 0 4px;font-size:26px}
+.sub{color:var(--muted);margin:0 0 14px}
+.bar{display:flex;flex-wrap:wrap;gap:6px;align-items:center;max-width:1200px;margin:0 auto;padding:0 20px 6px}
+.grouplabel{color:var(--muted);font-size:13px;margin-right:2px}
+button.f,button.clear{cursor:pointer;border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:999px;padding:4px 11px;font-size:13px}
+button.f{border-left:4px solid var(--c,#999)}
+button.f.on{background:var(--c,#333);color:#fff;border-color:var(--c)}
+button.clear{color:var(--muted)}
+#q{border:1px solid var(--line);border-radius:999px;padding:5px 12px;font-size:13px;min-width:150px;background:var(--card);color:var(--ink)}
+.count{color:var(--muted);font-size:13px;margin-left:auto}
+main{max-width:1200px;margin:0 auto;padding:14px 20px 60px;display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:16px}
+.card{display:flex;flex-direction:column;background:var(--card);border:1px solid var(--line);border-left:5px solid var(--c);border-radius:12px;overflow:hidden;text-decoration:none;color:inherit;transition:transform .12s,box-shadow .12s}
+.card:hover{transform:translateY(-3px);box-shadow:0 8px 22px rgba(0,0,0,.10)}
+.card.peripheral{border-style:dashed;opacity:.85}
+.thumb{height:150px;background:#efe7da;display:flex;align-items:center;justify-content:center;overflow:hidden}
+.thumb img{width:100%;height:100%;object-fit:cover}
+.noimg{color:var(--muted);font-size:12px;font-style:italic}
+.meta{padding:10px 12px 12px}
+.meta h3{margin:0 0 6px;font-size:15px;line-height:1.25}
+.badges{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:5px}
+.ont{background:var(--c);color:#fff;border-radius:999px;padding:1px 8px;font-size:11px}
+.sp{border:1px solid var(--line);border-radius:999px;padding:1px 8px;font-size:11px;color:var(--muted)}
+.sp-yes{border-color:#b5651d;color:#b5651d}
+.modes{color:var(--muted);font-size:12px}
+@media (prefers-color-scheme:dark){:root{--bg:#181410;--card:#231d17;--ink:#f0e7db;--muted:#a89a88;--line:#3a3128}.thumb{background:#2c251d}}
+</style>
+</head>
+<body>
+<header>
+<h1>&#129362; Teapot Mythos</h1>
+<p class="sub">A faceted taxonomy of the teapot as a central object of human meaning-making. {{N}} entries &mdash; click any card to open its page.</p>
+</header>
+<div class="bar"><span class="grouplabel">ontology</span>{{ONTBTNS}}</div>
+<div class="bar"><span class="grouplabel">spout</span>
+<button class="f" data-k="spout" data-v="yes" style="--c:#b5651d">yes</button>
+<button class="f" data-k="spout" data-v="no" style="--c:#999">no</button>
+<button class="f" data-k="spout" data-v="n-a" style="--c:#999">n-a</button>
+<button class="clear" id="clear">clear</button>
+<input id="q" placeholder="search title">
+<span class="count" id="count"></span>
+</div>
+<main id="grid">
+{{CARDS}}
+</main>
+<script>
+const cards=[...document.querySelectorAll('.card')];
+const active={ont:new Set(),spout:new Set()};let q='';
+function apply(){let n=0;for(const c of cards){
+ const okOnt=!active.ont.size||active.ont.has(c.dataset.ont);
+ const okSp=!active.spout.size||active.spout.has(c.dataset.spout);
+ const okQ=!q||c.dataset.title.indexOf(q)>-1;
+ const show=okOnt&&okSp&&okQ;c.style.display=show?'':'none';if(show)n++;}
+ document.getElementById('count').textContent=n+' of '+cards.length;}
+for(const b of document.querySelectorAll('button.f')){b.onclick=()=>{const k=b.dataset.k,v=b.dataset.v;
+ if(active[k].has(v)){active[k].delete(v);b.classList.remove('on');}else{active[k].add(v);b.classList.add('on');}apply();};}
+document.getElementById('clear').onclick=()=>{active.ont.clear();active.spout.clear();q='';document.getElementById('q').value='';
+ document.querySelectorAll('button.f.on').forEach(b=>b.classList.remove('on'));apply();};
+document.getElementById('q').oninput=e=>{q=e.target.value.toLowerCase();apply();};
+apply();
+</script>
+</body>
+</html>
+"""
+
+
+def build_gallery():
+    rows = sorted(central + peripheral,
+                  key=lambda x: (x.get("centrality") == "peripheral", x["name"]))
+    cards = []
+    for e in rows:
+        col = ONTCOLOR.get(e["ontology"], "#888")
+        ts = _thumb_src(e)
+        peri = " peripheral" if e.get("centrality") == "peripheral" else ""
+        t = esc(e["title"])
+        dt = re.sub(r"[^a-z0-9 ]", "", e["title"].lower())
+        inner = (f'<img loading="lazy" src="{ts}" alt="{t}">' if ts
+                 else '<div class="noimg">no free image</div>')
+        cards.append(
+            f'<a class="card{peri}" href="{BLOB}{e["file"]}" '
+            f'data-ont="{e["ontology"]}" data-mode="{" ".join(e["mode"])}" '
+            f'data-spout="{e["spout"]}" data-title="{dt}" style="--c:{col}">'
+            f'<div class="thumb">{inner}</div>'
+            f'<div class="meta"><h3>{t}</h3>'
+            f'<div class="badges"><span class="ont">{e["ontology"]}</span>'
+            f'<span class="sp sp-{e["spout"]}">spout {e["spout"]}</span></div>'
+            f'<div class="modes">{" &middot; ".join(e["mode"])}</div></div></a>')
+    onts = sorted(set(e["ontology"] for e in central))
+    ontbtns = "".join(
+        f'<button class="f" data-k="ont" data-v="{o}" style="--c:{ONTCOLOR.get(o, "#888")}">{o}</button>'
+        for o in onts)
+    return (GALLERY_TEMPLATE
+            .replace("{{CARDS}}", "\n".join(cards))
+            .replace("{{ONTBTNS}}", ontbtns)
+            .replace("{{N}}", str(len(rows))))
+
+
+_t = build_thumbs()
+(VIEWS / "gallery.html").write_text(build_gallery(), encoding="utf-8")
+print(f"thumbs: {_t}; gallery.html written ({len(central) + len(peripheral)} cards)")

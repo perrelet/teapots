@@ -8,3 +8,4 @@ Derived cross-sections of the 40 central + 2 peripheral entries. **Do not hand-e
 - [by-mode.md](by-mode.md) — the interpretive spine
 - [by-spout.md](by-spout.md) — the spout hypothesis cross-tab
 - [by-domain.md](by-domain.md) — field of activity
+- [gallery.html](gallery.html) — visual thumbnail gallery (view via GitHub Pages)
