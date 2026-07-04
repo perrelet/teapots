@@ -15,7 +15,7 @@ tags: [teapot-shaped-universe, mythology]
 creator: "Daevid Allen (Gong)"
 source: "Flying Teapot (1973), first album of the Radio Gnome Invisible trilogy; Planet Gong mythology"
 confidence: verified
-image: assets/gong-flying-teapot.jpg
+image: assets/full/gong-flying-teapot.jpg
 image_license: "CC BY-SA 3.0"
 image_credit: "Pequod76 (Wikimedia Commons)"
 image_source: "https://commons.wikimedia.org/wiki/File:Daevid_Allen_con_i_Gong_in_concerto_(Zafferana_-_Sicilia)_31luglio09.JPG"
@@ -23,7 +23,7 @@ image_note: "Daevid Allen (Gong) live; the album cover is copyrighted"
 links:
   - {to: russells-teapot, type: alludes-to}
 ---
-![Gong — Flying Teapot](../assets/gong-flying-teapot.jpg)
+![Gong — Flying Teapot](../assets/full/gong-flying-teapot.jpg)
 
 <sub>Pequod76 (Wikimedia Commons) · CC BY-SA 3.0</sub>
 

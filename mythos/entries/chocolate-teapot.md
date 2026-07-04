@@ -15,14 +15,14 @@ tags: [ontology-shift, insulation, spout, uselessness]
 creator:
 source: "Idiom 'as useless as a chocolate teapot'; tested by the Naked Scientists (2008) and Nestlé chocolatier John Costello"
 confidence: verified
-image: assets/chocolate-teapot.jpg
+image: assets/full/chocolate-teapot.jpg
 image_license: "CC BY-SA 3.0"
 image_credit: "JonONeill (Wikimedia Commons)"
 image_source: "https://commons.wikimedia.org/wiki/File:Teapot.jpg"
 image_note: "illustrative stand-in (generic teapot)"
 links: []
 ---
-![The Chocolate Teapot](../assets/chocolate-teapot.jpg)
+![The Chocolate Teapot](../assets/full/chocolate-teapot.jpg)
 
 <sub>JonONeill (Wikimedia Commons) · CC BY-SA 3.0</sub>
 

@@ -15,13 +15,13 @@ tags: [bauhaus, constructivism, pure-form]
 creator: "Marianne Brandt"
 source: "Bauhaus metalwork, 1924; Museum of Modern Art collection"
 confidence: verified
-image: assets/marianne-brandt-teapot.jpg
+image: assets/full/marianne-brandt-teapot.jpg
 image_license: "CC BY-SA 3.0"
 image_credit: "Photo Sailko; Bauhaus Museum Weimar"
 image_source: "https://commons.wikimedia.org/wiki/File:Marianne_brandt,_teiere,_1924.JPG"
 links: []
 ---
-![Marianne Brandt's Teapot (1924)](../assets/marianne-brandt-teapot.jpg)
+![Marianne Brandt's Teapot (1924)](../assets/full/marianne-brandt-teapot.jpg)
 
 <sub>Photo Sailko; Bauhaus Museum Weimar · CC BY-SA 3.0</sub>
 

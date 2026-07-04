@@ -15,14 +15,14 @@ tags: [digital-model, ontology-shift, reference-object, easter-egg]
 creator: "Martin Newell"
 source: "Martin Newell, University of Utah, 1975; source teapot (a Melitta) now at the Computer History Museum"
 confidence: verified
-image: assets/utah-teapot.jpg
+image: assets/full/utah-teapot.jpg
 image_license: "CC BY 2.0"
 image_credit: "Michael Hicks"
 image_source: "https://commons.wikimedia.org/wiki/File:Original_Utah_Teapot_-_Computer_History_Museums.jpg"
 image_note: "the original Melitta pot at the Computer History Museum"
 links: []
 ---
-![The Utah Teapot](../assets/utah-teapot.jpg)
+![The Utah Teapot](../assets/full/utah-teapot.jpg)
 
 <sub>Michael Hicks · CC BY 2.0</sub>
 

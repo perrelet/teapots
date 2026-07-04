@@ -15,7 +15,7 @@ tags: [pareidolia, spout, namesake]
 creator:
 source: "Teapot Rock, Natrona County, Wyoming — a sandstone formation once bearing spout- and handle-like features"
 confidence: needs-check
-image: assets/teapot-rock.jpg
+image: assets/full/teapot-rock.jpg
 image_license: "CC BY-SA 3.0"
 image_credit: "Wvbailey (English Wikipedia)"
 image_source: "https://commons.wikimedia.org/wiki/File:Teapot_WY_1.jpg"
@@ -23,7 +23,7 @@ links:
   - {to: teapot-dome-station, type: namesake}
   - {to: teapot-dome-scandal, type: namesake}
 ---
-![Teapot Rock (Wyoming)](../assets/teapot-rock.jpg)
+![Teapot Rock (Wyoming)](../assets/full/teapot-rock.jpg)
 
 <sub>Wvbailey (English Wikipedia) · CC BY-SA 3.0</sub>
 

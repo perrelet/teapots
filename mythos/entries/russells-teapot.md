@@ -15,13 +15,13 @@ tags: [unfalsifiability, burden-of-proof, celestial, orbit]
 creator: "Bertrand Russell"
 source: "Bertrand Russell, 'Is There a God?' (commissioned by Illustrated magazine, 1952)"
 confidence: verified
-image: assets/russells-teapot.svg
+image: assets/full/russells-teapot.svg
 image_license: "CC BY-SA 3.0"
 image_credit: "Conquistador (Wikimedia Commons)"
 image_source: "https://commons.wikimedia.org/wiki/File:Russell's_teapot.svg"
 links: []   # root of the collection — no outgoing edges; everyone points at it
 ---
-![Russell's Teapot](../assets/russells-teapot.svg)
+![Russell's Teapot](../assets/full/russells-teapot.svg)
 
 <sub>Conquistador (Wikimedia Commons) · CC BY-SA 3.0</sub>
 

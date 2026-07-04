@@ -15,13 +15,13 @@ tags: [spout, fluid-dynamics]
 creator: "Markus Reiner (coined the term, 1956)"
 source: "Fluid-dynamics phenomenon; also reproduced in low-cost 3-D-printed introductory-physics lab kits"
 confidence: verified
-image: assets/teapot-effect.svg
+image: assets/full/teapot-effect.svg
 image_license: "CC0"
 image_credit: "Pedalito (Wikimedia Commons)"
 image_source: "https://commons.wikimedia.org/wiki/File:Teekanneneffekt.svg"
 links: []
 ---
-![The Teapot Effect](../assets/teapot-effect.svg)
+![The Teapot Effect](../assets/full/teapot-effect.svg)
 
 <sub>Pedalito (Wikimedia Commons) · CC0</sub>
 

@@ -15,13 +15,13 @@ tags: [tea-ceremony, water, earth-air-fire-water, patina]
 creator:
 source: "Unglazed Yixing zisha clay teapots; central to Chinese Gongfu tea practice"
 confidence: verified
-image: assets/yixing-gongfu.jpg
+image: assets/full/yixing-gongfu.jpg
 image_license: "CC BY-SA 3.0"
 image_credit: "Eugene.shi (Wikimedia Commons)"
 image_source: "https://commons.wikimedia.org/wiki/File:Yixing_clay_teapot.jpg"
 links: []
 ---
-![Yixing Teapots & the Gongfu Ceremony](../assets/yixing-gongfu.jpg)
+![Yixing Teapots & the Gongfu Ceremony](../assets/full/yixing-gongfu.jpg)
 
 <sub>Eugene.shi (Wikimedia Commons) · CC BY-SA 3.0</sub>
 

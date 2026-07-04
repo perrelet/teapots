@@ -15,7 +15,7 @@ tags: [unfalsifiability, burden-of-proof, teapot-shaped-universe, invitation]
 creator: "Jamie Perrelet"
 source: "Jamie Perrelet, 'A Descent into the Quantum Teapot' (MSc dissertation, 2014)"
 confidence: verified
-image: assets/perrelets-teapot.jpg
+image: assets/full/perrelets-teapot.jpg
 image_license: "CC BY-SA 4.0"
 image_credit: "Wikimedia users Walaa & Remember the dot"
 image_source: "https://commons.wikimedia.org/wiki/File:Teapot_in_space.jpg"
@@ -23,7 +23,7 @@ image_note: "illustrative (a teapot in space)"
 links:
   - {to: russells-teapot, type: responds-to}
 ---
-![Perrelet's Teapot](../assets/perrelets-teapot.jpg)
+![Perrelet's Teapot](../assets/full/perrelets-teapot.jpg)
 
 <sub>Wikimedia users Walaa & Remember the dot · CC BY-SA 4.0</sub>
 

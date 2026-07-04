@@ -15,13 +15,13 @@ tags: [mint-tea, high-pour, hospitality, spout, water]
 creator:
 source: "Maghrebi mint-tea ceremony; engraved silver/brass berrad with a long curved spout, poured from height to raise a foam crown"
 confidence: verified
-image: assets/moroccan-berrad.jpg
+image: assets/full/moroccan-berrad.jpg
 image_license: "CC BY-SA 4.0"
 image_credit: "Sarkar Sayantan (Wikimedia Commons)"
 image_source: "https://commons.wikimedia.org/wiki/File:Moroccan_Mint_Tea_-_1.jpg"
 links: []
 ---
-![The Moroccan Berrad & the High Pour](../assets/moroccan-berrad.jpg)
+![The Moroccan Berrad & the High Pour](../assets/full/moroccan-berrad.jpg)
 
 <sub>Sarkar Sayantan (Wikimedia Commons) · CC BY-SA 4.0</sub>
 

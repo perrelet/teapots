@@ -15,14 +15,14 @@ tags: [idiom, triviality]
 creator:
 source: "Common idiom for a great fuss over something trivial; British variant 'storm in a teacup'"
 confidence: verified
-image: assets/tempest-in-a-teapot-idiom.jpg
+image: assets/full/tempest-in-a-teapot-idiom.jpg
 image_license: "CC BY-SA 3.0"
 image_credit: "Composite by Durova (cyclone NASA/PD; teapot by Mendhak)"
 image_source: "https://commons.wikimedia.org/wiki/File:Tempest_in_a_teapot.jpg"
 image_note: "a literal visual pun on the idiom"
 links: []
 ---
-!["Tempest in a Teapot" (idiom)](../assets/tempest-in-a-teapot-idiom.jpg)
+!["Tempest in a Teapot" (idiom)](../assets/full/tempest-in-a-teapot-idiom.jpg)
 
 <sub>Composite by Durova (cyclone NASA/PD; teapot by Mendhak) · CC BY-SA 3.0</sub>
 

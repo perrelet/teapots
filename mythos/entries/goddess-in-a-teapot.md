@@ -15,14 +15,14 @@ tags: [women-spirituality, earth-air-fire-water, practice]
 creator: "Carolyn Lee Boyd"
 source: "goddessinateapot.com — Carolyn Lee Boyd's decades-long writing on goddess traditions and everyday sacredness; New England-based"
 confidence: verified
-image: assets/goddess-in-a-teapot.jpg
+image: assets/full/goddess-in-a-teapot.jpg
 image_license: "CC BY-SA 3.0"
 image_credit: "Theroadislong (Wikimedia Commons)"
 image_source: "https://commons.wikimedia.org/wiki/File:Chinese_teapot.JPG"
 image_note: "illustrative stand-in"
 links: []
 ---
-![Goddess in a Teapot (Carolyn Lee Boyd)](../assets/goddess-in-a-teapot.jpg)
+![Goddess in a Teapot (Carolyn Lee Boyd)](../assets/full/goddess-in-a-teapot.jpg)
 
 <sub>Theroadislong (Wikimedia Commons) · CC BY-SA 3.0</sub>
 

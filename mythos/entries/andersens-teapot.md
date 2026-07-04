@@ -14,13 +14,13 @@ stance: earnest
 tags: [char:agency, char:anthropomorphic, char:role-protagonist, char:arc-service, brokenness-repair, service, object-lifecycle]
 creator: "Hans Christian Andersen"
 confidence: verified
-image: assets/andersens-teapot.png
+image: assets/full/andersens-teapot.png
 image_license: "Public domain"
 image_credit: "Lorenz Frolich (1820-1908), 1871 illustration for Andersen's 'The Teapot'"
 image_source: "https://commons.wikimedia.org/wiki/File:Nye_Eventyr_og_Historier_II_s_235_-_Theepotten.png"
 links: []
 ---
-![The Teapot (Hans Christian Andersen)](../assets/andersens-teapot.png)
+![The Teapot (Hans Christian Andersen)](../assets/full/andersens-teapot.png)
 
 <sub>Lorenz Frolich (1820-1908), 1871 illustration for Andersen's 'The Teapot' · Public domain</sub>
 

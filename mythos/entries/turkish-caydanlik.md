@@ -15,13 +15,13 @@ tags: [stacked, dilution, hospitality, two-pots]
 creator:
 source: "Turkish stacked double teapot: lower kettle boils water, upper demlik steeps a concentrate diluted to taste"
 confidence: verified
-image: assets/turkish-caydanlik.jpg
+image: assets/full/turkish-caydanlik.jpg
 image_license: "Public domain"
 image_credit: "JX Bardant (French Wikipedia)"
 image_source: "https://commons.wikimedia.org/wiki/File:Caydanlik-et-verre-tulipe.jpg"
 links: []
 ---
-![The Turkish Çaydanlık](../assets/turkish-caydanlik.jpg)
+![The Turkish Çaydanlık](../assets/full/turkish-caydanlik.jpg)
 
 <sub>JX Bardant (French Wikipedia) · Public domain</sub>
 

@@ -15,7 +15,7 @@ tags: [namesake]
 creator:
 source: "US naval oil-reserve bribery scandal, 1921–22; Interior Secretary Albert Fall convicted 1929"
 confidence: verified
-image: assets/teapot-dome-scandal.jpg
+image: assets/full/teapot-dome-scandal.jpg
 image_license: "Public domain"
 image_credit: "Ellison Hoover, LIFE magazine (1924)"
 image_source: "https://commons.wikimedia.org/wiki/File:Ellison_Hoover_Cartoon_Teapot_Dome_Scandal_1924.jpg"
@@ -23,7 +23,7 @@ links:
   - {to: teapot-rock, type: namesake}
   - {to: teapot-dome-station, type: namesake}
 ---
-![The Teapot Dome Scandal](../assets/teapot-dome-scandal.jpg)
+![The Teapot Dome Scandal](../assets/full/teapot-dome-scandal.jpg)
 
 <sub>Ellison Hoover, LIFE magazine (1924) · Public domain</sub>
 

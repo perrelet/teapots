@@ -272,7 +272,7 @@ def build_credits():
     for e in sorted(rows, key=lambda x: x["name"]):
         src = e.get("image_source", "")
         srclink = f"[file]({src})" if src else ""
-        img = e.get("image", "").replace("assets/", "")
+        img = pathlib.Path(e.get("image", "")).name
         out.append(f"| {e['title']} | `{img}` | {e.get('image_license','')} | "
                    f"{e.get('image_credit','')} | {srclink} |")
     return "\n".join(out) + "\n"

@@ -15,13 +15,13 @@ tags: [vernacular, archetype, red-clay, rockingham-glaze]
 creator: "Staffordshire potteries (Stoke-on-Trent); local red clay first worked c.1695"
 source: "Round red-earthenware teapot with manganese 'Rockingham' glaze; Britain's archetypal everyday teapot"
 confidence: verified
-image: assets/brown-betty.jpg
+image: assets/full/brown-betty.jpg
 image_license: "CC BY-SA 4.0"
 image_credit: "Protosaurus (Wikimedia Commons)"
 image_source: "https://commons.wikimedia.org/wiki/File:Brown_Betty_Teapot.jpg"
 links: []
 ---
-![The Brown Betty](../assets/brown-betty.jpg)
+![The Brown Betty](../assets/full/brown-betty.jpg)
 
 <sub>Protosaurus (Wikimedia Commons) · CC BY-SA 4.0</sub>
 

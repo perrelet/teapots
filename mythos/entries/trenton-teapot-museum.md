@@ -15,14 +15,14 @@ tags: [collection, curation, veilleuses, night-light-teapots]
 creator: "Dr. Frederick C. Freed"
 source: "Trenton, Tennessee; 525 veilleuses-théières donated 1955; pieces c.1750–1860; 'World's Largest Collection of Veilleuses-Théières'"
 confidence: verified
-image: assets/trenton-teapot-museum.jpg
+image: assets/full/trenton-teapot-museum.jpg
 image_license: "CC0"
 image_credit: "The Metropolitan Museum of Art"
 image_source: "https://commons.wikimedia.org/wiki/File:Tea_warmer_(veilleuse)_MET_12349.jpg"
 image_note: "a veilleuse-theiere, the object type the museum collects"
 links: []
 ---
-![The Trenton Teapot Museum](../assets/trenton-teapot-museum.jpg)
+![The Trenton Teapot Museum](../assets/full/trenton-teapot-museum.jpg)
 
 <sub>The Metropolitan Museum of Art · CC0</sub>
 
