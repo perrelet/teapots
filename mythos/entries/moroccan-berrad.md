@@ -21,6 +21,10 @@ image_credit: "Sarkar Sayantan (Wikimedia Commons)"
 image_source: "https://commons.wikimedia.org/wiki/File:Moroccan_Mint_Tea_-_1.jpg"
 links: []
 ---
+![The Moroccan Berrad & the High Pour](../assets/moroccan-berrad.jpg)
+
+<sub>Sarkar Sayantan (Wikimedia Commons) · CC BY-SA 4.0</sub>
+
 The engraved silver or brass Maghrebi teapot (*berrad*), with its long curved
 spout, poured from a foot or more above the glass to raise a frothy "crown" — the
 centrepiece of Moroccan hospitality, where the height and grace of the pour encode

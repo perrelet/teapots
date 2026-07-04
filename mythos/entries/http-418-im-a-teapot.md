@@ -22,6 +22,10 @@ image_source: "https://commons.wikimedia.org/wiki/File:Tea_pot.svg"
 image_note: "illustrative stand-in (CC0 teapot icon)"
 links: []   # no referential edges — kinship to im-a-little-teapot etc. is the shared `self-naming` tag
 ---
+![HTTP 418 "I'm a teapot"](../assets/http-418-im-a-teapot.svg)
+
+<sub>donchico / Openclipart · CC0</sub>
+
 Defined in the April Fools' RFC 2324, the Hyper Text Coffee Pot Control
 Protocol: a teapot sent a `BREW` command must refuse and return
 `418 I'm a teapot`. Extended by RFC 7168 (milk, via the Accept-Additions

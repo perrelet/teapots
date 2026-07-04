@@ -21,6 +21,10 @@ image_credit: "John Tenniel, 1865"
 image_source: "https://commons.wikimedia.org/wiki/File:John_Tenniel-_Alice's_mad_tea_party,_colour.jpg"
 links: []
 ---
+![The Mad Tea Party (Alice in Wonderland)](../assets/mad-tea-party.jpg)
+
+<sub>John Tenniel, 1865 · Public domain</sub>
+
 Carroll's Mad Tea Party stages tea ritual as pure disorder — riddles without
 answers, a table endlessly reset, time itself broken. Per the accessory-teapot
 rule, this entry is **scoped to the teapot-central beat**: the Dormouse being

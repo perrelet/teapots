@@ -23,6 +23,10 @@ links:
   - {to: teapot-dome-station, type: namesake}
   - {to: teapot-dome-scandal, type: namesake}
 ---
+![Teapot Rock (Wyoming)](../assets/teapot-rock.jpg)
+
+<sub>Wvbailey (English Wikipedia) · CC BY-SA 3.0</sub>
+
 The literal teapot at the root of the whole "Teapot Dome" name: a sandstone
 formation in Natrona County, Wyoming, whose eroded profile once suggested a spout
 and a handle — a teapot *found*, not made, by weather and the human eye. The

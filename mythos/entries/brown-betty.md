@@ -21,6 +21,10 @@ image_credit: "Protosaurus (Wikimedia Commons)"
 image_source: "https://commons.wikimedia.org/wiki/File:Brown_Betty_Teapot.jpg"
 links: []
 ---
+![The Brown Betty](../assets/brown-betty.jpg)
+
+<sub>Protosaurus (Wikimedia Commons) · CC BY-SA 4.0</sub>
+
 The round, red-terracotta teapot with a dark manganese glaze from Stoke-on-Trent —
 Britain's "people's teapot," made by the hundred thousand and claimed to brew the
 best cup thanks to its heat-retaining local clay and rounded body. Where

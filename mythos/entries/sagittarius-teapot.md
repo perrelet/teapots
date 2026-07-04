@@ -21,6 +21,10 @@ image_credit: "Eoghanacht (Wikimedia Commons)"
 image_source: "https://commons.wikimedia.org/wiki/File:Sagittarius-teapot-asterism.jpg"
 links: []
 ---
+![The Sagittarius Teapot](../assets/sagittarius-teapot.jpg)
+
+<sub>Eoghanacht (Wikimedia Commons) · Public domain</sub>
+
 Eight bright stars of Sagittarius form an unmistakable teapot — bowl, handle,
 lid and spout. Its finest detail is cosmic pareidolia at its best: the dense star
 clouds of the Milky Way's centre rise from the *spout*, so the sky appears to

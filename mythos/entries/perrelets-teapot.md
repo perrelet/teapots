@@ -23,6 +23,10 @@ image_note: "illustrative (a teapot in space)"
 links:
   - {to: russells-teapot, type: responds-to}
 ---
+![Perrelet's Teapot](../assets/perrelets-teapot.jpg)
+
+<sub>Wikimedia users Walaa & Remember the dot · CC BY-SA 4.0</sub>
+
 Jamie Perrelet's own theory, from his MSc dissertation *A Descent into the Quantum
 Teapot* (2014), and a direct response to [[russells-teapot]] — named to parallel
 it. Where Russell places the burden of proof on the believer of an unfalsifiable

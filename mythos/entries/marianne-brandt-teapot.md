@@ -21,6 +21,10 @@ image_credit: "Photo Sailko; Bauhaus Museum Weimar"
 image_source: "https://commons.wikimedia.org/wiki/File:Marianne_brandt,_teiere,_1924.JPG"
 links: []
 ---
+![Marianne Brandt's Teapot (1924)](../assets/marianne-brandt-teapot.jpg)
+
+<sub>Photo Sailko; Bauhaus Museum Weimar · CC BY-SA 3.0</sub>
+
 Brandt's Bauhaus teapot reduces the object to elemental geometry — a hemispherical
 body, a disc lid, a crisp cross-bar handle — a Constructivist exercise in pure
 form rather than a thing meant for daily use. Now in MoMA's collection, it is the

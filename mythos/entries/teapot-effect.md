@@ -21,6 +21,10 @@ image_credit: "Pedalito (Wikimedia Commons)"
 image_source: "https://commons.wikimedia.org/wiki/File:Teekanneneffekt.svg"
 links: []
 ---
+![The Teapot Effect](../assets/teapot-effect.svg)
+
+<sub>Pedalito (Wikimedia Commons) · CC0</sub>
+
 The dribble: why liquid runs back down a teapot's spout instead of pouring
 cleanly. Named by Markus Reiner in 1956 and studied ever since as a problem of
 flow separation and wettability at the spout lip — serious enough to warrant

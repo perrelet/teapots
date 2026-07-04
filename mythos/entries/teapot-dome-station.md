@@ -23,6 +23,10 @@ links:
   - {to: teapot-rock, type: namesake}
   - {to: teapot-dome-scandal, type: namesake}
 ---
+![Teapot Dome Service Station](../assets/teapot-dome-station.jpg)
+
+<sub>John Margolies / Library of Congress · Public domain (no known restrictions)</sub>
+
 A gas station built in 1922 by Jack Ainsworth in the shape of a giant teapot —
 spout, handle and all — as a wry roadside jab at the unfolding
 [[teapot-dome-scandal]]. Here the teapot is deliberately *made*: a physical

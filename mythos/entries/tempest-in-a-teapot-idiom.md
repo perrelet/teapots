@@ -22,6 +22,10 @@ image_source: "https://commons.wikimedia.org/wiki/File:Tempest_in_a_teapot.jpg"
 image_note: "a literal visual pun on the idiom"
 links: []
 ---
+!["Tempest in a Teapot" (idiom)](../assets/tempest-in-a-teapot-idiom.jpg)
+
+<sub>Composite by Durova (cyclone NASA/PD; teapot by Mendhak) · CC BY-SA 3.0</sub>
+
 The idiom for an outsized fuss over something trivial (British cousin: "storm in a
 teacup"). The teapot as a unit of *smallness* — the largest possible disturbance
 that still fits in the tiniest vessel. Pure `proverbial` / `linguistic`, and

@@ -23,6 +23,10 @@ links:
   - {to: teapot-rock, type: namesake}
   - {to: teapot-dome-station, type: namesake}
 ---
+![The Teapot Dome Scandal](../assets/teapot-dome-scandal.jpg)
+
+<sub>Ellison Hoover, LIFE magazine (1924) · Public domain</sub>
+
 **Contrast-set entry (peripheral).** The scandal that made "Teapot Dome" famous
 contains no teapot at all. Interior Secretary Albert Fall secretly leased the
 Teapot Dome naval oil reserve — named after [[teapot-rock]] above it — to private

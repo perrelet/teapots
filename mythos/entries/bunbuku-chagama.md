@@ -21,6 +21,10 @@ image_credit: "Tsukioka Yoshitoshi (1839-1892), c.1889-92"
 image_source: "https://commons.wikimedia.org/wiki/File:Yoshitoshi_Bunbuku_Chagama.jpg"
 links: []
 ---
+![Bunbuku Chagama (The Lucky Teakettle)](../assets/bunbuku-chagama.jpg)
+
+<sub>Tsukioka Yoshitoshi (1839-1892), c.1889-92 · Public domain</sub>
+
 A tanuki (badger) shape-shifts into a bronze tea kettle and lands in a temple;
 set over the fire to boil, it can't bear the heat, sprouts legs and head, and
 bolts. Passing to a poor junk dealer, it sings and tap-dances on a tightrope,

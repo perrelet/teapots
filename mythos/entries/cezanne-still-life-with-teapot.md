@@ -21,6 +21,10 @@ image_credit: "Paul Cezanne; digitized by Amgueddfa Cymru - Museum Wales"
 image_source: "https://commons.wikimedia.org/wiki/File:Amgueddfa_Cymru_-_Bywyd_Llonydd_%C3%A2_Thebot_-_Still_life_with_teapot_-_2368.jpeg"
 links: []
 ---
+![Cézanne — Still Life with Teapot](../assets/cezanne-still-life-with-teapot.jpg)
+
+<sub>Paul Cezanne; digitized by Amgueddfa Cymru - Museum Wales · Public domain (CC0)</sub>
+
 Cézanne's teapot sits among fruit and crockery on a draped table, one weight in
 his lifelong study of how solid forms hold and balance in space. The corpus's sole
 `representational` entry — the teapot exists here as a *depicted image*, not a pot

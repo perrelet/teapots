@@ -22,6 +22,10 @@ image_source: "https://commons.wikimedia.org/wiki/File:Chinese_teapot.JPG"
 image_note: "illustrative stand-in"
 links: []
 ---
+![Goddess in a Teapot (Carolyn Lee Boyd)](../assets/goddess-in-a-teapot.jpg)
+
+<sub>Theroadislong (Wikimedia Commons) · CC BY-SA 3.0</sub>
+
 Carolyn Lee Boyd's decades-long writing practice (goddessinateapot.com) takes the
 teapot as its emblem of everyday sacredness: a vessel gathering earth, air, fire
 and water, a small domestic object made holy. A New England-based poet, essayist

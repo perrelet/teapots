@@ -22,6 +22,10 @@ image_source: "https://commons.wikimedia.org/wiki/File:Teapot.jpg"
 image_note: "illustrative stand-in (generic teapot)"
 links: []
 ---
+![The Chocolate Teapot](../assets/chocolate-teapot.jpg)
+
+<sub>JonONeill (Wikimedia Commons) · CC BY-SA 3.0</sub>
+
 "As useless as a chocolate teapot" — the idiom for something utterly pointless.
 Then people built one: the Naked Scientists (2008) found dark chocolate's fat is a
 decent insulator, so a chocolate teapot works better than expected, and Nestlé's

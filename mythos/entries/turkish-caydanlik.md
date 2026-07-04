@@ -21,6 +21,10 @@ image_credit: "JX Bardant (French Wikipedia)"
 image_source: "https://commons.wikimedia.org/wiki/File:Caydanlik-et-verre-tulipe.jpg"
 links: []
 ---
+![The Turkish Çaydanlık](../assets/turkish-caydanlik.jpg)
+
+<sub>JX Bardant (French Wikipedia) · Public domain</sub>
+
 The stacked double teapot of Turkey — a large lower kettle (*su kazanı*) boils the
 water while a small upper pot (*demlik*) steeps a strong concentrate, and each
 drinker dilutes to taste, from *koyu* (dark) to *açık* (light). Emblem of the

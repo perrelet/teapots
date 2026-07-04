@@ -22,6 +22,10 @@ image_source: "https://commons.wikimedia.org/wiki/File:Original_Utah_Teapot_-_Co
 image_note: "the original Melitta pot at the Computer History Museum"
 links: []
 ---
+![The Utah Teapot](../assets/utah-teapot.jpg)
+
+<sub>Michael Hicks · CC BY 2.0</sub>
+
 Modelled in 1975 by Martin Newell from an ordinary Melitta teapot on his kitchen
 table (his wife Sandra suggested it), the Utah teapot became computer graphics'
 default object — simple enough to render, complex enough to show off shading and

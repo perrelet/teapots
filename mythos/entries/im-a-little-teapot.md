@@ -22,6 +22,10 @@ image_source: "https://commons.wikimedia.org/wiki/File:A_tea_pot.jpg"
 image_note: "illustrative stand-in"
 links: []
 ---
+!["I'm a Little Teapot"](../assets/im-a-little-teapot.jpg)
+
+<sub>Haragayato (Wikimedia Commons) · CC BY-SA 2.5</sub>
+
 Written in 1939 for young children who couldn't master a tap routine: a song
 simple enough that the child doesn't sing *about* a teapot but *becomes* one — arm
 out for the spout, arm bent for the handle, then "tip me over and pour me out."

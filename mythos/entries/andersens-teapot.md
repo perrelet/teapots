@@ -20,6 +20,10 @@ image_credit: "Lorenz Frolich (1820-1908), 1871 illustration for Andersen's 'The
 image_source: "https://commons.wikimedia.org/wiki/File:Nye_Eventyr_og_Historier_II_s_235_-_Theepotten.png"
 links: []
 ---
+![The Teapot (Hans Christian Andersen)](../assets/andersens-teapot.png)
+
+<sub>Lorenz Frolich (1820-1908), 1871 illustration for Andersen's 'The Teapot' · Public domain</sub>
+
 Andersen's teapot begins proud — boasting of its porcelain, spout and handle
 while ignoring its cracked lid — then is dropped, broken, and given to the poor.
 Silent in disgrace, it is redeemed only when someone plants a flower bulb inside

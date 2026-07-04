@@ -23,6 +23,10 @@ image_note: "Daevid Allen (Gong) live; the album cover is copyrighted"
 links:
   - {to: russells-teapot, type: alludes-to}
 ---
+![Gong — Flying Teapot](../assets/gong-flying-teapot.jpg)
+
+<sub>Pequod76 (Wikimedia Commons) · CC BY-SA 3.0</sub>
+
 Daevid Allen built the entire Planet Gong cosmology of the *Radio Gnome Invisible*
 trilogy (opening with *Flying Teapot*, 1973) around a cosmic flying teapot — the
 album title itself a wink at [[russells-teapot]]. A whole psychedelic mythology

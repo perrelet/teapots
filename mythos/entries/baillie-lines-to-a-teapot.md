@@ -22,6 +22,10 @@ image_source: "https://commons.wikimedia.org/wiki/File:Joanna_Baillie_by_Mary_An
 image_note: "portrait of the poet"
 links: []
 ---
+![Joanna Baillie — "Lines to a Teapot"](../assets/baillie-lines-to-a-teapot.jpg)
+
+<sub>Mary Ann Knight (1776-1851), portrait of Joanna Baillie · Public domain</sub>
+
 The Scottish poet-playwright's poem is addressed *to* a Chinese porcelain teapot,
 tracing its whole life: born in a distant kiln, carried across the ocean, prized in
 fashionable British drawing rooms, then slipping into neglect and the scrutiny of

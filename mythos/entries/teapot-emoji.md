@@ -21,6 +21,10 @@ image_credit: "Twemoji (Twitter/X), maintained by jdecked"
 image_source: "https://github.com/jdecked/twemoji"
 links: []
 ---
+![The Teapot Emoji 🫖](../assets/teapot-emoji.svg)
+
+<sub>Twemoji (Twitter/X), maintained by jdecked · CC BY 4.0</sub>
+
 The teapot pictograph (U+1FAD6), added to Unicode only in 2020 — conspicuously
 late, after years in which a lone handleless teacup existed but no teapot, and
 campaigns (Yorkshire Tea among them) lobbied for it. The glyph shows body, handle,

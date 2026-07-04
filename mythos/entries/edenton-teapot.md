@@ -21,6 +21,10 @@ image_credit: "Frank C Jones (Wikimedia Commons)"
 image_source: "https://commons.wikimedia.org/wiki/File:Edenton_Teapot.jpg"
 links: []
 ---
+![The Edenton Teapot](../assets/edenton-teapot.jpg)
+
+<sub>Frank C Jones (Wikimedia Commons) · CC BY-SA 4.0</sub>
+
 A ~250-lb bronze teapot mounted atop an upright Revolutionary-War cannon barrel
 before the 1767 Chowan County Courthouse in Edenton, North Carolina,
 commemorating the Edenton Tea Party of 25 October 1774 — when fifty-one women,

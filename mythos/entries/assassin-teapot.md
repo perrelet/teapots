@@ -21,6 +21,10 @@ image_credit: "acacuss (Wikimedia Commons)"
 image_source: "https://commons.wikimedia.org/wiki/File:The_assassin's_teapot_and_the_greedy_cup.jpg"
 links: []
 ---
+![The Assassin's Teapot](../assets/assassin-teapot.jpg)
+
+<sub>acacuss (Wikimedia Commons) · CC BY-SA 4.0</sub>
+
 One pot, two sealed internal chambers, each with its own hidden air hole near the
 handle: the pourer covers or uncovers a hole with a fingertip, and atmospheric
 pressure holds one chamber shut while the other pours — so two people served from

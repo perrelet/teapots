@@ -21,6 +21,10 @@ image_credit: "Conquistador (Wikimedia Commons)"
 image_source: "https://commons.wikimedia.org/wiki/File:Russell's_teapot.svg"
 links: []   # root of the collection — no outgoing edges; everyone points at it
 ---
+![Russell's Teapot](../assets/russells-teapot.svg)
+
+<sub>Conquistador (Wikimedia Commons) · CC BY-SA 3.0</sub>
+
 Russell's analogy: a china teapot too small to be detected by any telescope,
 orbiting the Sun somewhere between Earth and Mars. Precisely because its
 existence cannot be *disproven*, someone might insist on it — but the burden of

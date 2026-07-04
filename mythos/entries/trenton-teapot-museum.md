@@ -22,6 +22,10 @@ image_source: "https://commons.wikimedia.org/wiki/File:Tea_warmer_(veilleuse)_ME
 image_note: "a veilleuse-theiere, the object type the museum collects"
 links: []
 ---
+![The Trenton Teapot Museum](../assets/trenton-teapot-museum.jpg)
+
+<sub>The Metropolitan Museum of Art · CC0</sub>
+
 Dr. Frederick C. Freed — an NYU professor and Trenton native — spent some forty
 years hunting antique shops for *veilleuses-théières*, the rare 18th–19th-century
 porcelain **night-light teapots**, and donated 525 of them to Trenton, Tennessee,

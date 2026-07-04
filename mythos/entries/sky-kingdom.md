@@ -21,6 +21,10 @@ image_credit: "Kiedd 07 (Wikimedia Commons)"
 image_source: "https://en.wikipedia.org/wiki/File:Ariffin_Mohammed.png"
 links: []
 ---
+![Sky Kingdom (the "Teapot Cult")](../assets/sky-kingdom.png)
+
+<sub>Kiedd 07 (Wikimedia Commons) · CC BY-SA 3.0</sub>
+
 The Sky Kingdom commune, led by Ariffin Mohammed ("Ayah Pin"), built a giant
 two-storey teapot near Kampung Batu 13 in Terengganu's Besut district, symbolising
 love pouring from heaven and the purity of water; first-time visitors drank holy
