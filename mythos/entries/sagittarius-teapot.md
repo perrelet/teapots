@@ -1,0 +1,26 @@
+---
+name: sagittarius-teapot
+title: The Sagittarius Teapot
+domain: [astronomy]
+mode: [found-form, cosmic-projection]
+ontology: natural
+form: [natural-formation]
+spout: yes
+geography: [cosmos]
+year:
+era: named modern (stars ancient)
+centrality: central
+stance: n-a
+tags: [pareidolia, celestial, spout]
+creator:
+source: "Asterism formed by eight bright stars of Sagittarius; the Milky Way's galactic centre lies off the spout"
+confidence: verified
+links: []
+---
+Eight bright stars of Sagittarius form an unmistakable teapot — bowl, handle,
+lid and spout. Its finest detail is cosmic pareidolia at its best: the dense star
+clouds of the Milky Way's centre rise from the *spout*, so the sky appears to
+show steam pouring from a celestial teapot. The same `found-form` phenomenon as
+[[teapot-rock]], projected onto the stars instead of sandstone (queryable
+together by the `pareidolia` tag). A `spout: yes` entry — the spout is what makes
+the whole picture work.
