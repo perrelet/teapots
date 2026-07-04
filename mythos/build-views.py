@@ -260,6 +260,23 @@ def build_index():
             "- [by-domain.md](by-domain.md) — field of activity\n")
 
 
+# ---- image credits (written into assets/) ------------------------------------
+def build_credits():
+    rows = [e for e in entries if e.get("image")]
+    out = ["# Image credits\n",
+           f"{len(rows)} featured images, all freely licensed. CC-BY / CC-BY-SA require "
+           "the attribution below; CC0 / public-domain require none.\n",
+           "| Entry | File | License | Credit | Source |",
+           "|---|---|---|---|---|"]
+    for e in sorted(rows, key=lambda x: x["name"]):
+        src = e.get("image_source", "")
+        srclink = f"[file]({src})" if src else ""
+        img = e.get("image", "").replace("assets/", "")
+        out.append(f"| {e['title']} | `{img}` | {e.get('image_license','')} | "
+                   f"{e.get('image_credit','')} | {srclink} |")
+    return "\n".join(out) + "\n"
+
+
 write("README.md", build_index())
 write("by-ontology.md", build_ontology())
 write("by-mode.md", build_mode())
@@ -267,6 +284,10 @@ write("by-domain.md", build_domain())
 write("by-spout.md", build_spout())
 write("hypotheses.md", build_hypotheses())
 
+(ROOT / "assets").mkdir(exist_ok=True)
+(ROOT / "assets" / "CREDITS.md").write_text(GEN + build_credits(), encoding="utf-8")
+
+print(f"images: {sum(1 for e in entries if e.get('image'))} (assets/CREDITS.md written)")
 print(f"entries: {len(entries)} ({len(central)} central, {len(peripheral)} peripheral)")
 print(f"spout yes/no/n-a: "
       f"{sum(1 for e in central if e['spout']=='yes')}/"
