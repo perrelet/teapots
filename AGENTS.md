@@ -28,6 +28,28 @@ Perrelet's thesis on the "golden braid" of teapot-lore. Everything lives in
 - **Views are derived.** After any facet change, run `python build-views.py`;
   never hand-edit files under `views/`.
 
+## Entry body scaffold (tiered)
+
+Each entry body (below the frontmatter + hero image) follows a light scaffold:
+1. **Lead** — one punchy sentence: what it is.
+2. **Body** — provenance + the concrete detail + a **primary-source block quote**
+   where one exists (public-domain quoted freely; in-copyright kept to a short
+   fair-dealing snippet). Verify quotes and cite in `source:`.
+3. **`## In the braid`** — its symbolic function and the typed threads to sibling
+   entries (`[[links]]` + motifs).
+
+Depth is **tiered by importance**:
+- **Keystones** (~350–450w): thesis-bearing / most-quotable — russells, perrelets,
+  http-418, utah, andersens, bunbuku, im-a-little-teapot, teapot-effect, chocolate,
+  mad-tea-party. **(Done.)**
+- **Mid** (~200–250w): most other entries, as the material warrants. *(pending)*
+- **Minor** (~120–180w): landmarks / museums / design-objects — one good fact well
+  told. *(pending)*
+
+Production is a **research pipeline**: gather a dossier (primary source +
+provenance + reception + link candidates), then author in the house voice
+(warm-analytical, present tense, connects to the braid). Set `confidence` honestly.
+
 ## Commit convention — the teapot table
 
 Format: `type(scope): summary` — imperative mood, ~70 chars, a teapot verb for the
