@@ -5,13 +5,12 @@ domain: [physics]
 mode: [scientific-object]
 ontology: material
 form: [phenomenon]
-spout: yes
 geography: [generic]
 year: 1956
 era: mid-20th-century
 centrality: central
 stance: earnest
-tags: [spout, fluid-dynamics, wetting, flow-separation]
+tags: [fluid-dynamics, wetting, flow-separation]
 creator: "Markus Reiner (coined the term, 1956)"
 source: "Term coined by Markus Reiner, Physics Today (1956); full theory: Scheichl, Bowles & Pasias, J. Fluid Mech. 926 A25 (2021); wetting result: Duez et al., Phys. Rev. Lett. 104 084503 (2010)"
 confidence: verified
@@ -53,13 +52,10 @@ slightly *uphill* first.
 
 ## In the braid
 
-This is the purest `spout: yes` entry in the whole corpus — the one teapot that
-exists not as an object but as a *behaviour of the spout itself*, which is why its
-`form` is `phenomenon` and its register is `material` (a physical process, not a
-posit — its existence was never in doubt, only its explanation). It is the
-hard-physics core of the **spout hypothesis**: that the teapot is the vessel
-defined not by what it holds but by how it *gives out*.
-Its kin are the other spout-central entries — the twin channels of the
-[[assassin-teapot]], and the long, sharp, high-pouring spout of the
-[[moroccan-berrad]], a culturally-evolved answer to exactly the separation problem
-the physicists spent a century formalizing.
+The corpus's one teapot that exists not as an object but as a *behaviour* — which
+is why its `form` is `phenomenon` and its register `material` (a physical process,
+not a posit; its existence was never in doubt, only its explanation, which took
+sixty-five years to pin down). Its kin are the other entries where the pour is the
+point: the twin channels of the [[assassin-teapot]], and the long, sharp,
+high-pouring spout of the [[moroccan-berrad]] — a culturally-evolved answer to
+exactly the flow-separation problem the physicists spent a century formalizing.

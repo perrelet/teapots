@@ -5,7 +5,6 @@ domain: [design]
 mode: [reference-object]
 ontology: material
 form: [physical-object]
-spout: no
 geography: [uk]
 year:
 era: 18th-century onward

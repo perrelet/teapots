@@ -5,13 +5,12 @@ domain: [landmark]
 mode: [found-form]
 ontology: natural
 form: [natural-formation]
-spout: yes
 geography: [usa]
 year:
 era: named 19th-century (formation geological)
 centrality: central
 stance: n-a
-tags: [pareidolia, spout, namesake]
+tags: [pareidolia, namesake]
 creator:
 source: "Teapot Rock, Natrona County, Wyoming — a sandstone formation once bearing spout- and handle-like features"
 confidence: needs-check

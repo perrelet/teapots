@@ -5,7 +5,6 @@ domain: [film]
 mode: [transformation]
 ontology: fictional
 form: [character]
-spout: no
 geography: [china]
 year: 2021
 era: contemporary

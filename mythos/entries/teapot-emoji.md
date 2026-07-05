@@ -5,7 +5,6 @@ domain: [computing]
 mode: [self-reference]
 ontology: virtual
 form: [code]
-spout: yes
 geography: [internet]
 year: 2020
 era: contemporary

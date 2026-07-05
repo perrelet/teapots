@@ -5,7 +5,6 @@ domain: [politics]
 mode: [scandal-power]
 ontology: linguistic
 form: [event]
-spout: n-a
 geography: [usa]
 year: 1921
 era: early-20th-century

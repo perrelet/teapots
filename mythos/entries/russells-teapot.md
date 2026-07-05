@@ -5,7 +5,6 @@ domain: [philosophy]
 mode: [epistemological]
 ontology: conceptual
 form: [thought-experiment]
-spout: no
 geography: [uk]
 year: 1952
 era: mid-20th-century

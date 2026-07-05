@@ -5,7 +5,6 @@ domain: [literature]
 mode: [trickster, hospitality]
 ontology: fictional
 form: [character, text]
-spout: no
 geography: [uk]
 year: 1865
 era: mid-19th-century

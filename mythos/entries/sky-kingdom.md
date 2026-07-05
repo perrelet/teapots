@@ -5,7 +5,6 @@ domain: [spirituality, architecture]
 mode: [veneration, effigy]
 ontology: material
 form: [building, monument]
-spout: yes
 geography: [malaysia]
 year: 2005
 era: contemporary
@@ -31,5 +30,5 @@ love pouring from heaven and the purity of water; first-time visitors drank holy
 water from a vase the teapot was said to keep filled. Dubbed the "teapot cult" by
 the press, the group was treated as deviant by Malaysian authorities — followers
 were arrested and the teapot razed on 1 August 2005. The corpus's most literal
-case of organised `veneration`: a built `effigy` genuinely worshipped, with
-`spout: yes` as the theology itself — love *poured out*.
+case of organised `veneration`: a built `effigy` genuinely worshipped, the
+pouring itself its theology — love *poured out*.

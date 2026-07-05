@@ -5,7 +5,6 @@ domain: [film]
 mode: [embodiment, hospitality, transformation]
 ontology: fictional
 form: [character]
-spout: no
 geography: [usa]
 year: 1991
 era: late-20th-century

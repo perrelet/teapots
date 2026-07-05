@@ -5,7 +5,6 @@ domain: [literature]
 mode: [satire]
 ontology: linguistic
 form: [text]
-spout: n-a
 geography: [generic]
 year: 2015
 era: contemporary

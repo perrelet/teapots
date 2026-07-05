@@ -78,10 +78,9 @@ session context.
   Newsweek citation or drop it.
 
 **Other**
-- Gallery (`views/gallery.html`): add **mode** filtering (has ontology + spout +
-  title search).
-- Turn `views/hypotheses.md` into thesis prose (the spout cross-tab finding; the
-  self-naming quartet; service-vs-refusal).
+- Gallery (`views/gallery.html`): add **mode** filtering (has ontology + title search).
+- Turn `views/hypotheses.md` into thesis prose (the self-naming quartet;
+  service-vs-refusal).
 - **12 entries have no featured image** (see README "Curatorial pass") — decide:
   free generic substitutes / licensed images / generated fallback cards.
 

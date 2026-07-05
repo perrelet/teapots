@@ -5,7 +5,6 @@ domain: [music]
 mode: [cosmic-projection, veneration]
 ontology: fictional
 form: [song, text]
-spout: no
 geography: [uk]
 year: 1973
 era: late-20th-century

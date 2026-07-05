@@ -6,129 +6,129 @@ The interpretive spine. Entries appear under every mode they carry.
 
 ## epistemological  (2)
 
-- [Perrelet's Teapot](../entries/perrelets-teapot.md)  ·  _conceptual_  ·  spout: no
-- [Russell's Teapot](../entries/russells-teapot.md)  ·  _conceptual_  ·  spout: no
+- [Perrelet's Teapot](../entries/perrelets-teapot.md)  ·  _conceptual_
+- [Russell's Teapot](../entries/russells-teapot.md)  ·  _conceptual_
 
 ## refusal  (2)
 
-- [Bunbuku Chagama (The Lucky Teakettle)](../entries/bunbuku-chagama.md)  ·  _fictional_  ·  spout: no
-- [HTTP 418 "I'm a teapot"](../entries/http-418-im-a-teapot.md)  ·  _virtual_  ·  spout: no
+- [Bunbuku Chagama (The Lucky Teakettle)](../entries/bunbuku-chagama.md)  ·  _fictional_
+- [HTTP 418 "I'm a teapot"](../entries/http-418-im-a-teapot.md)  ·  _virtual_
 
 ## embodiment  (5)
 
-- [The Teapot (Hans Christian Andersen)](../entries/andersens-teapot.md)  ·  _fictional_  ·  spout: no
-- [The Talking Teapot (Enid Blyton)](../entries/blytons-talking-teapot.md)  ·  _fictional_  ·  spout: no
-- ["I'm a Little Teapot"](../entries/im-a-little-teapot.md)  ·  _performative_  ·  spout: yes
-- [Mrs. Potts (Beauty and the Beast)](../entries/mrs-potts.md)  ·  _fictional_  ·  spout: no
-- [Teapotting (2011 photo fad)](../entries/teapotting.md)  ·  _performative_  ·  spout: yes
+- [The Teapot (Hans Christian Andersen)](../entries/andersens-teapot.md)  ·  _fictional_
+- [The Talking Teapot (Enid Blyton)](../entries/blytons-talking-teapot.md)  ·  _fictional_
+- ["I'm a Little Teapot"](../entries/im-a-little-teapot.md)  ·  _performative_
+- [Mrs. Potts (Beauty and the Beast)](../entries/mrs-potts.md)  ·  _fictional_
+- [Teapotting (2011 photo fad)](../entries/teapotting.md)  ·  _performative_
 
 ## duality  (2)
 
-- [The Assassin's Teapot](../entries/assassin-teapot.md)  ·  _material_  ·  spout: yes
-- [The Turkish Çaydanlık](../entries/turkish-caydanlik.md)  ·  _material_  ·  spout: yes
+- [The Assassin's Teapot](../entries/assassin-teapot.md)  ·  _material_
+- [The Turkish Çaydanlık](../entries/turkish-caydanlik.md)  ·  _material_
 
 ## cosmic-projection  (2)
 
-- [Gong — Flying Teapot](../entries/gong-flying-teapot.md)  ·  _fictional_  ·  spout: no
-- [The Sagittarius Teapot](../entries/sagittarius-teapot.md)  ·  _natural_  ·  spout: yes
+- [Gong — Flying Teapot](../entries/gong-flying-teapot.md)  ·  _fictional_
+- [The Sagittarius Teapot](../entries/sagittarius-teapot.md)  ·  _natural_
 
 ## transformation  (6)
 
-- [The Teapot (Hans Christian Andersen)](../entries/andersens-teapot.md)  ·  _fictional_  ·  spout: no
-- [Joanna Baillie — "Lines to a Teapot"](../entries/baillie-lines-to-a-teapot.md)  ·  _material_  ·  spout: no
-- [The Brass Teapot (2012 film)](../entries/brass-teapot-film.md)  ·  _fictional_  ·  spout: no
-- [Bunbuku Chagama (The Lucky Teakettle)](../entries/bunbuku-chagama.md)  ·  _fictional_  ·  spout: no
-- [Mrs. Potts (Beauty and the Beast)](../entries/mrs-potts.md)  ·  _fictional_  ·  spout: no
-- [Wish Dragon (2021 film)](../entries/wish-dragon.md)  ·  _fictional_  ·  spout: no
+- [The Teapot (Hans Christian Andersen)](../entries/andersens-teapot.md)  ·  _fictional_
+- [Joanna Baillie — "Lines to a Teapot"](../entries/baillie-lines-to-a-teapot.md)  ·  _material_
+- [The Brass Teapot (2012 film)](../entries/brass-teapot-film.md)  ·  _fictional_
+- [Bunbuku Chagama (The Lucky Teakettle)](../entries/bunbuku-chagama.md)  ·  _fictional_
+- [Mrs. Potts (Beauty and the Beast)](../entries/mrs-potts.md)  ·  _fictional_
+- [Wish Dragon (2021 film)](../entries/wish-dragon.md)  ·  _fictional_
 
 ## hospitality  (10)
 
-- [The Mad Tea Party (Alice in Wonderland)](../entries/mad-tea-party.md)  ·  _fictional_  ·  spout: no
-- [The Moroccan Berrad & the High Pour](../entries/moroccan-berrad.md)  ·  _material_  ·  spout: yes
-- [Mrs. Potts (Beauty and the Beast)](../entries/mrs-potts.md)  ·  _fictional_  ·  spout: no
-- [Orwell — "A Nice Cup of Tea"](../entries/orwell-nice-cup-of-tea.md)  ·  _discursive_  ·  spout: no
-- [Perrelet's Teapot](../entries/perrelets-teapot.md)  ·  _conceptual_  ·  spout: no
-- [Teapot Hill (Cultus Lake)](../entries/teapot-hill.md)  ·  _material_  ·  spout: n-a
-- [The Teapot House (Lasqueti Island)](../entries/teapot-house-lasqueti.md)  ·  _material_  ·  spout: no
-- [Tempest in a Teapot (play)](../entries/tempest-in-a-teapot-play.md)  ·  _fictional_  ·  spout: no
-- [The Turkish Çaydanlık](../entries/turkish-caydanlik.md)  ·  _material_  ·  spout: yes
-- [Yixing Teapots & the Gongfu Ceremony](../entries/yixing-gongfu.md)  ·  _material_  ·  spout: no
+- [The Mad Tea Party (Alice in Wonderland)](../entries/mad-tea-party.md)  ·  _fictional_
+- [The Moroccan Berrad & the High Pour](../entries/moroccan-berrad.md)  ·  _material_
+- [Mrs. Potts (Beauty and the Beast)](../entries/mrs-potts.md)  ·  _fictional_
+- [Orwell — "A Nice Cup of Tea"](../entries/orwell-nice-cup-of-tea.md)  ·  _discursive_
+- [Perrelet's Teapot](../entries/perrelets-teapot.md)  ·  _conceptual_
+- [Teapot Hill (Cultus Lake)](../entries/teapot-hill.md)  ·  _material_
+- [The Teapot House (Lasqueti Island)](../entries/teapot-house-lasqueti.md)  ·  _material_
+- [Tempest in a Teapot (play)](../entries/tempest-in-a-teapot-play.md)  ·  _fictional_
+- [The Turkish Çaydanlık](../entries/turkish-caydanlik.md)  ·  _material_
+- [Yixing Teapots & the Gongfu Ceremony](../entries/yixing-gongfu.md)  ·  _material_
 
 ## scandal-power  (1)
 
-- [Teapot Dome Service Station](../entries/teapot-dome-station.md)  ·  _material_  ·  spout: yes
+- [Teapot Dome Service Station](../entries/teapot-dome-station.md)  ·  _material_
 
 ## trickster  (5)
 
-- [The Talking Teapot (Enid Blyton)](../entries/blytons-talking-teapot.md)  ·  _fictional_  ·  spout: no
-- [The Brass Teapot (2012 film)](../entries/brass-teapot-film.md)  ·  _fictional_  ·  spout: no
-- [Bunbuku Chagama (The Lucky Teakettle)](../entries/bunbuku-chagama.md)  ·  _fictional_  ·  spout: no
-- [The Mad Tea Party (Alice in Wonderland)](../entries/mad-tea-party.md)  ·  _fictional_  ·  spout: no
-- [Tempest in a Teapot (play)](../entries/tempest-in-a-teapot-play.md)  ·  _fictional_  ·  spout: no
+- [The Talking Teapot (Enid Blyton)](../entries/blytons-talking-teapot.md)  ·  _fictional_
+- [The Brass Teapot (2012 film)](../entries/brass-teapot-film.md)  ·  _fictional_
+- [Bunbuku Chagama (The Lucky Teakettle)](../entries/bunbuku-chagama.md)  ·  _fictional_
+- [The Mad Tea Party (Alice in Wonderland)](../entries/mad-tea-party.md)  ·  _fictional_
+- [Tempest in a Teapot (play)](../entries/tempest-in-a-teapot-play.md)  ·  _fictional_
 
 ## uselessness-defied  (1)
 
-- [The Chocolate Teapot](../entries/chocolate-teapot.md)  ·  _linguistic_  ·  spout: yes
+- [The Chocolate Teapot](../entries/chocolate-teapot.md)  ·  _linguistic_
 
 ## self-reference  (4)
 
-- [HTTP 418 "I'm a teapot"](../entries/http-418-im-a-teapot.md)  ·  _virtual_  ·  spout: no
-- ["I'm a Little Teapot"](../entries/im-a-little-teapot.md)  ·  _performative_  ·  spout: yes
-- [The Teapot Emoji 🫖](../entries/teapot-emoji.md)  ·  _virtual_  ·  spout: yes
-- [Teapotting (2011 photo fad)](../entries/teapotting.md)  ·  _performative_  ·  spout: yes
+- [HTTP 418 "I'm a teapot"](../entries/http-418-im-a-teapot.md)  ·  _virtual_
+- ["I'm a Little Teapot"](../entries/im-a-little-teapot.md)  ·  _performative_
+- [The Teapot Emoji 🫖](../entries/teapot-emoji.md)  ·  _virtual_
+- [Teapotting (2011 photo fad)](../entries/teapotting.md)  ·  _performative_
 
 ## veneration  (6)
 
-- [Goddess in a Teapot (Carolyn Lee Boyd)](../entries/goddess-in-a-teapot.md)  ·  _discursive_  ·  spout: n-a
-- [Gong — Flying Teapot](../entries/gong-flying-teapot.md)  ·  _fictional_  ·  spout: no
-- [Perrelet's Teapot](../entries/perrelets-teapot.md)  ·  _conceptual_  ·  spout: no
-- [Sky Kingdom (the "Teapot Cult")](../entries/sky-kingdom.md)  ·  _material_  ·  spout: yes
-- [The Teapot House (Lasqueti Island)](../entries/teapot-house-lasqueti.md)  ·  _material_  ·  spout: no
-- [Yixing Teapots & the Gongfu Ceremony](../entries/yixing-gongfu.md)  ·  _material_  ·  spout: no
+- [Goddess in a Teapot (Carolyn Lee Boyd)](../entries/goddess-in-a-teapot.md)  ·  _discursive_
+- [Gong — Flying Teapot](../entries/gong-flying-teapot.md)  ·  _fictional_
+- [Perrelet's Teapot](../entries/perrelets-teapot.md)  ·  _conceptual_
+- [Sky Kingdom (the "Teapot Cult")](../entries/sky-kingdom.md)  ·  _material_
+- [The Teapot House (Lasqueti Island)](../entries/teapot-house-lasqueti.md)  ·  _material_
+- [Yixing Teapots & the Gongfu Ceremony](../entries/yixing-gongfu.md)  ·  _material_
 
 ## found-form  (2)
 
-- [The Sagittarius Teapot](../entries/sagittarius-teapot.md)  ·  _natural_  ·  spout: yes
-- [Teapot Rock (Wyoming)](../entries/teapot-rock.md)  ·  _natural_  ·  spout: yes
+- [The Sagittarius Teapot](../entries/sagittarius-teapot.md)  ·  _natural_
+- [Teapot Rock (Wyoming)](../entries/teapot-rock.md)  ·  _natural_
 
 ## effigy  (4)
 
-- [The Edenton Teapot](../entries/edenton-teapot.md)  ·  _material_  ·  spout: no
-- [Sky Kingdom (the "Teapot Cult")](../entries/sky-kingdom.md)  ·  _material_  ·  spout: yes
-- [Teapot Dome Service Station](../entries/teapot-dome-station.md)  ·  _material_  ·  spout: yes
-- [The Teapot House (Lasqueti Island)](../entries/teapot-house-lasqueti.md)  ·  _material_  ·  spout: no
+- [The Edenton Teapot](../entries/edenton-teapot.md)  ·  _material_
+- [Sky Kingdom (the "Teapot Cult")](../entries/sky-kingdom.md)  ·  _material_
+- [Teapot Dome Service Station](../entries/teapot-dome-station.md)  ·  _material_
+- [The Teapot House (Lasqueti Island)](../entries/teapot-house-lasqueti.md)  ·  _material_
 
 ## reference-object  (2)
 
-- [The Brown Betty](../entries/brown-betty.md)  ·  _material_  ·  spout: no
-- [The Utah Teapot](../entries/utah-teapot.md)  ·  _virtual_  ·  spout: yes
+- [The Brown Betty](../entries/brown-betty.md)  ·  _material_
+- [The Utah Teapot](../entries/utah-teapot.md)  ·  _virtual_
 
 ## formal-study  (4)
 
-- [Cézanne — Still Life with Teapot](../entries/cezanne-still-life-with-teapot.md)  ·  _representational_  ·  spout: no
-- [Marianne Brandt's Teapot (1924)](../entries/marianne-brandt-teapot.md)  ·  _material_  ·  spout: no
-- [Peter Shire's Teapots](../entries/peter-shire-teapots.md)  ·  _material_  ·  spout: no
-- [The Utah Teapot](../entries/utah-teapot.md)  ·  _virtual_  ·  spout: yes
+- [Cézanne — Still Life with Teapot](../entries/cezanne-still-life-with-teapot.md)  ·  _representational_
+- [Marianne Brandt's Teapot (1924)](../entries/marianne-brandt-teapot.md)  ·  _material_
+- [Peter Shire's Teapots](../entries/peter-shire-teapots.md)  ·  _material_
+- [The Utah Teapot](../entries/utah-teapot.md)  ·  _virtual_
 
 ## proverbial  (3)
 
-- [The Chocolate Teapot](../entries/chocolate-teapot.md)  ·  _linguistic_  ·  spout: yes
-- [Orwell — "A Nice Cup of Tea"](../entries/orwell-nice-cup-of-tea.md)  ·  _discursive_  ·  spout: no
-- ["Tempest in a Teapot" (idiom)](../entries/tempest-in-a-teapot-idiom.md)  ·  _linguistic_  ·  spout: n-a
+- [The Chocolate Teapot](../entries/chocolate-teapot.md)  ·  _linguistic_
+- [Orwell — "A Nice Cup of Tea"](../entries/orwell-nice-cup-of-tea.md)  ·  _discursive_
+- ["Tempest in a Teapot" (idiom)](../entries/tempest-in-a-teapot-idiom.md)  ·  _linguistic_
 
 ## scientific-object  (1)
 
-- [The Teapot Effect](../entries/teapot-effect.md)  ·  _material_  ·  spout: yes
+- [The Teapot Effect](../entries/teapot-effect.md)  ·  _material_
 
 ## collection  (2)
 
-- [Teapot Hill (Cultus Lake)](../entries/teapot-hill.md)  ·  _material_  ·  spout: n-a
-- [The Trenton Teapot Museum](../entries/trenton-teapot-museum.md)  ·  _material_  ·  spout: n-a
+- [Teapot Hill (Cultus Lake)](../entries/teapot-hill.md)  ·  _material_
+- [The Trenton Teapot Museum](../entries/trenton-teapot-museum.md)  ·  _material_
 
 ## satire  (1)
 
-- [James Hadley's Aesthetic Teapot (1882)](../entries/james-hadley-teapot.md)  ·  _material_  ·  spout: no
+- [James Hadley's Aesthetic Teapot (1882)](../entries/james-hadley-teapot.md)  ·  _material_
 
 ## mechanism  (1)
 
-- [The Cadogan Teapot](../entries/cadogan-teapot.md)  ·  _material_  ·  spout: yes
+- [The Cadogan Teapot](../entries/cadogan-teapot.md)  ·  _material_

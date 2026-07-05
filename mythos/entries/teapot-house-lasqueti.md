@@ -5,7 +5,6 @@ domain: [architecture]
 mode: [effigy, hospitality, veneration]
 ontology: material
 form: [building]
-spout: no
 geography: [canada-bc]
 year:
 era: built 1920s

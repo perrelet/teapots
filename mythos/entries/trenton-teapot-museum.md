@@ -5,7 +5,6 @@ domain: [museum]
 mode: [collection]
 ontology: material
 form: [physical-object]
-spout: n-a
 geography: [usa]
 year: 1955
 era: mid-20th-century

@@ -5,13 +5,12 @@ domain: [language, physics, food]
 mode: [proverbial, uselessness-defied]
 ontology: linguistic
 form: [phrase]
-spout: yes
 geography: [uk]
 year: 2008
 era: contemporary
 centrality: central
 stance: playful
-tags: [ontology-shift, insulation, spout, uselessness]
+tags: [ontology-shift, insulation, uselessness]
 creator:
 source: "Idiom 'as useless as a chocolate teapot' (attested 1967); tested by the Naked Scientists (2008) and Nestlé's John Costello (2014)"
 confidence: verified

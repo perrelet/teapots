@@ -5,7 +5,6 @@ domain: [visual-art]
 mode: [formal-study]
 ontology: representational
 form: [artwork]
-spout: no
 geography: [france]
 year: 1905
 era: early-20th-century

@@ -5,7 +5,6 @@ domain: [literature]
 mode: [transformation, embodiment]
 ontology: fictional
 form: [character, text]
-spout: no
 geography: [denmark]
 year: 1863
 era: mid-19th-century

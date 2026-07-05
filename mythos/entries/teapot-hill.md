@@ -5,7 +5,6 @@ domain: [landmark]
 mode: [collection, hospitality]
 ontology: material
 form: [physical-object]
-spout: n-a
 geography: [canada-bc]
 year:
 era: contemporary

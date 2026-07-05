@@ -5,7 +5,6 @@ domain: [architecture, landmark]
 mode: [effigy, scandal-power]
 ontology: material
 form: [building]
-spout: yes
 geography: [usa]
 year: 1922
 era: early-20th-century

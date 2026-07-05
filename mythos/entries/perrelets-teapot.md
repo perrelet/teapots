@@ -5,7 +5,6 @@ domain: [philosophy]
 mode: [epistemological, veneration, hospitality]
 ontology: conceptual
 form: [thought-experiment]
-spout: no
 geography: [generic]
 year: 2014
 era: contemporary

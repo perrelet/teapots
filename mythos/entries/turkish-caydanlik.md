@@ -5,7 +5,6 @@ domain: [spirituality]
 mode: [hospitality, duality]
 ontology: material
 form: [physical-object]
-spout: yes
 geography: [turkey]
 year:
 era: traditional

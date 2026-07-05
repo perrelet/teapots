@@ -5,7 +5,6 @@ domain: [literature]
 mode: [hospitality, proverbial]
 ontology: discursive
 form: [text]
-spout: no
 geography: [uk]
 year: 1946
 era: mid-20th-century

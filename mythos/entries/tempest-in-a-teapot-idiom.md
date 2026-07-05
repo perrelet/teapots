@@ -5,7 +5,6 @@ domain: [language]
 mode: [proverbial]
 ontology: linguistic
 form: [phrase]
-spout: n-a
 geography: [generic]
 year:
 era: 19th-century (attested)

@@ -6,88 +6,88 @@ The central/thesis axis. Each teapot's primary register of existence.
 
 ## conceptual  (2)
 
-| Entry | Mode | spout | Era |
-|---|---|---|---|
-| [Perrelet's Teapot](../entries/perrelets-teapot.md) | epistemological · veneration · hospitality | no | contemporary |
-| [Russell's Teapot](../entries/russells-teapot.md) | epistemological | no | mid-20th-century |
+| Entry | Mode | Era |
+|---|---|---|
+| [Perrelet's Teapot](../entries/perrelets-teapot.md) | epistemological · veneration · hospitality | contemporary |
+| [Russell's Teapot](../entries/russells-teapot.md) | epistemological | mid-20th-century |
 
 ## material  (17)
 
-| Entry | Mode | spout | Era |
-|---|---|---|---|
-| [The Assassin's Teapot](../entries/assassin-teapot.md) | duality | **yes** | legendary (Ming-attributed) |
-| [Joanna Baillie — "Lines to a Teapot"](../entries/baillie-lines-to-a-teapot.md) | transformation | no | 19th-century |
-| [The Brown Betty](../entries/brown-betty.md) | reference-object | no | 18th-century onward |
-| [The Cadogan Teapot](../entries/cadogan-teapot.md) | mechanism | **yes** | 19th-century |
-| [The Edenton Teapot](../entries/edenton-teapot.md) | effigy | no | early-20th-century |
-| [James Hadley's Aesthetic Teapot (1882)](../entries/james-hadley-teapot.md) | satire | no | late-19th-century |
-| [Marianne Brandt's Teapot (1924)](../entries/marianne-brandt-teapot.md) | formal-study | no | early-20th-century |
-| [The Moroccan Berrad & the High Pour](../entries/moroccan-berrad.md) | hospitality | **yes** | traditional |
-| [Peter Shire's Teapots](../entries/peter-shire-teapots.md) | formal-study | no | late-20th-century onward |
-| [Sky Kingdom (the "Teapot Cult")](../entries/sky-kingdom.md) | veneration · effigy | **yes** | contemporary |
-| [Teapot Dome Service Station](../entries/teapot-dome-station.md) | effigy · scandal-power | **yes** | early-20th-century |
-| [The Teapot Effect](../entries/teapot-effect.md) | scientific-object | **yes** | mid-20th-century |
-| [Teapot Hill (Cultus Lake)](../entries/teapot-hill.md) | collection · hospitality | n-a | contemporary |
-| [The Teapot House (Lasqueti Island)](../entries/teapot-house-lasqueti.md) | effigy · hospitality · veneration | no | built 1920s |
-| [The Trenton Teapot Museum](../entries/trenton-teapot-museum.md) | collection | n-a | mid-20th-century |
-| [The Turkish Çaydanlık](../entries/turkish-caydanlik.md) | hospitality · duality | **yes** | traditional |
-| [Yixing Teapots & the Gongfu Ceremony](../entries/yixing-gongfu.md) | hospitality · veneration | no | Ming-dynasty onward |
+| Entry | Mode | Era |
+|---|---|---|
+| [The Assassin's Teapot](../entries/assassin-teapot.md) | duality | legendary (Ming-attributed) |
+| [Joanna Baillie — "Lines to a Teapot"](../entries/baillie-lines-to-a-teapot.md) | transformation | 19th-century |
+| [The Brown Betty](../entries/brown-betty.md) | reference-object | 18th-century onward |
+| [The Cadogan Teapot](../entries/cadogan-teapot.md) | mechanism | 19th-century |
+| [The Edenton Teapot](../entries/edenton-teapot.md) | effigy | early-20th-century |
+| [James Hadley's Aesthetic Teapot (1882)](../entries/james-hadley-teapot.md) | satire | late-19th-century |
+| [Marianne Brandt's Teapot (1924)](../entries/marianne-brandt-teapot.md) | formal-study | early-20th-century |
+| [The Moroccan Berrad & the High Pour](../entries/moroccan-berrad.md) | hospitality | traditional |
+| [Peter Shire's Teapots](../entries/peter-shire-teapots.md) | formal-study | late-20th-century onward |
+| [Sky Kingdom (the "Teapot Cult")](../entries/sky-kingdom.md) | veneration · effigy | contemporary |
+| [Teapot Dome Service Station](../entries/teapot-dome-station.md) | effigy · scandal-power | early-20th-century |
+| [The Teapot Effect](../entries/teapot-effect.md) | scientific-object | mid-20th-century |
+| [Teapot Hill (Cultus Lake)](../entries/teapot-hill.md) | collection · hospitality | contemporary |
+| [The Teapot House (Lasqueti Island)](../entries/teapot-house-lasqueti.md) | effigy · hospitality · veneration | built 1920s |
+| [The Trenton Teapot Museum](../entries/trenton-teapot-museum.md) | collection | mid-20th-century |
+| [The Turkish Çaydanlık](../entries/turkish-caydanlik.md) | hospitality · duality | traditional |
+| [Yixing Teapots & the Gongfu Ceremony](../entries/yixing-gongfu.md) | hospitality · veneration | Ming-dynasty onward |
 
 ## natural  (2)
 
-| Entry | Mode | spout | Era |
-|---|---|---|---|
-| [The Sagittarius Teapot](../entries/sagittarius-teapot.md) | found-form · cosmic-projection | **yes** | named modern (stars ancient) |
-| [Teapot Rock (Wyoming)](../entries/teapot-rock.md) | found-form | **yes** | named 19th-century (formation geological) |
+| Entry | Mode | Era |
+|---|---|---|
+| [The Sagittarius Teapot](../entries/sagittarius-teapot.md) | found-form · cosmic-projection | named modern (stars ancient) |
+| [Teapot Rock (Wyoming)](../entries/teapot-rock.md) | found-form | named 19th-century (formation geological) |
 
 ## fictional  (9)
 
-| Entry | Mode | spout | Era |
-|---|---|---|---|
-| [The Teapot (Hans Christian Andersen)](../entries/andersens-teapot.md) | transformation · embodiment | no | mid-19th-century |
-| [The Talking Teapot (Enid Blyton)](../entries/blytons-talking-teapot.md) | trickster · embodiment | no | early-20th-century |
-| [The Brass Teapot (2012 film)](../entries/brass-teapot-film.md) | transformation · trickster | no | contemporary |
-| [Bunbuku Chagama (The Lucky Teakettle)](../entries/bunbuku-chagama.md) | trickster · transformation · refusal | no | pre-modern (Edo-period tale) |
-| [Gong — Flying Teapot](../entries/gong-flying-teapot.md) | cosmic-projection · veneration | no | late-20th-century |
-| [The Mad Tea Party (Alice in Wonderland)](../entries/mad-tea-party.md) | trickster · hospitality | no | mid-19th-century |
-| [Mrs. Potts (Beauty and the Beast)](../entries/mrs-potts.md) | embodiment · hospitality · transformation | no | late-20th-century |
-| [Tempest in a Teapot (play)](../entries/tempest-in-a-teapot-play.md) | hospitality · trickster | no | contemporary |
-| [Wish Dragon (2021 film)](../entries/wish-dragon.md) | transformation | no | contemporary |
+| Entry | Mode | Era |
+|---|---|---|
+| [The Teapot (Hans Christian Andersen)](../entries/andersens-teapot.md) | transformation · embodiment | mid-19th-century |
+| [The Talking Teapot (Enid Blyton)](../entries/blytons-talking-teapot.md) | trickster · embodiment | early-20th-century |
+| [The Brass Teapot (2012 film)](../entries/brass-teapot-film.md) | transformation · trickster | contemporary |
+| [Bunbuku Chagama (The Lucky Teakettle)](../entries/bunbuku-chagama.md) | trickster · transformation · refusal | pre-modern (Edo-period tale) |
+| [Gong — Flying Teapot](../entries/gong-flying-teapot.md) | cosmic-projection · veneration | late-20th-century |
+| [The Mad Tea Party (Alice in Wonderland)](../entries/mad-tea-party.md) | trickster · hospitality | mid-19th-century |
+| [Mrs. Potts (Beauty and the Beast)](../entries/mrs-potts.md) | embodiment · hospitality · transformation | late-20th-century |
+| [Tempest in a Teapot (play)](../entries/tempest-in-a-teapot-play.md) | hospitality · trickster | contemporary |
+| [Wish Dragon (2021 film)](../entries/wish-dragon.md) | transformation | contemporary |
 
 ## virtual  (3)
 
-| Entry | Mode | spout | Era |
-|---|---|---|---|
-| [HTTP 418 "I'm a teapot"](../entries/http-418-im-a-teapot.md) | refusal · self-reference | no | late-20th-century |
-| [The Teapot Emoji 🫖](../entries/teapot-emoji.md) | self-reference | **yes** | contemporary |
-| [The Utah Teapot](../entries/utah-teapot.md) | reference-object · formal-study | **yes** | late-20th-century |
+| Entry | Mode | Era |
+|---|---|---|
+| [HTTP 418 "I'm a teapot"](../entries/http-418-im-a-teapot.md) | refusal · self-reference | late-20th-century |
+| [The Teapot Emoji 🫖](../entries/teapot-emoji.md) | self-reference | contemporary |
+| [The Utah Teapot](../entries/utah-teapot.md) | reference-object · formal-study | late-20th-century |
 
 ## representational  (1)
 
-| Entry | Mode | spout | Era |
-|---|---|---|---|
-| [Cézanne — Still Life with Teapot](../entries/cezanne-still-life-with-teapot.md) | formal-study | no | early-20th-century |
+| Entry | Mode | Era |
+|---|---|---|
+| [Cézanne — Still Life with Teapot](../entries/cezanne-still-life-with-teapot.md) | formal-study | early-20th-century |
 
 ## linguistic  (2)
 
-| Entry | Mode | spout | Era |
-|---|---|---|---|
-| [The Chocolate Teapot](../entries/chocolate-teapot.md) | proverbial · uselessness-defied | **yes** | contemporary |
-| ["Tempest in a Teapot" (idiom)](../entries/tempest-in-a-teapot-idiom.md) | proverbial | n-a | 19th-century (attested) |
+| Entry | Mode | Era |
+|---|---|---|
+| [The Chocolate Teapot](../entries/chocolate-teapot.md) | proverbial · uselessness-defied | contemporary |
+| ["Tempest in a Teapot" (idiom)](../entries/tempest-in-a-teapot-idiom.md) | proverbial | 19th-century (attested) |
 
 ## performative  (2)
 
-| Entry | Mode | spout | Era |
-|---|---|---|---|
-| ["I'm a Little Teapot"](../entries/im-a-little-teapot.md) | embodiment · self-reference | **yes** | mid-20th-century |
-| [Teapotting (2011 photo fad)](../entries/teapotting.md) | embodiment · self-reference | **yes** | contemporary |
+| Entry | Mode | Era |
+|---|---|---|
+| ["I'm a Little Teapot"](../entries/im-a-little-teapot.md) | embodiment · self-reference | mid-20th-century |
+| [Teapotting (2011 photo fad)](../entries/teapotting.md) | embodiment · self-reference | contemporary |
 
 ## discursive  (2)
 
-| Entry | Mode | spout | Era |
-|---|---|---|---|
-| [Goddess in a Teapot (Carolyn Lee Boyd)](../entries/goddess-in-a-teapot.md) | veneration | n-a | contemporary |
-| [Orwell — "A Nice Cup of Tea"](../entries/orwell-nice-cup-of-tea.md) | hospitality · proverbial | no | mid-20th-century |
+| Entry | Mode | Era |
+|---|---|---|
+| [Goddess in a Teapot (Carolyn Lee Boyd)](../entries/goddess-in-a-teapot.md) | veneration | contemporary |
+| [Orwell — "A Nice Cup of Tea"](../entries/orwell-nice-cup-of-tea.md) | hospitality · proverbial | mid-20th-century |
 
 ## peripheral (contrast set — fail the centrality gate)
 

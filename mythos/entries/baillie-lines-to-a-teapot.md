@@ -5,7 +5,6 @@ domain: [literature]
 mode: [transformation]
 ontology: material
 form: [text]
-spout: no
 geography: [uk]
 year: 1840
 era: 19th-century

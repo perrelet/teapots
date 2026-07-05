@@ -5,7 +5,6 @@ domain: [folklore]
 mode: [trickster, transformation, refusal]
 ontology: fictional
 form: [character, text]
-spout: no
 geography: [japan]
 year:
 era: pre-modern (Edo-period tale)

@@ -5,7 +5,6 @@ domain: [design]
 mode: [formal-study]
 ontology: material
 form: [artwork, physical-object]
-spout: no
 geography: [germany]
 year: 1924
 era: early-20th-century

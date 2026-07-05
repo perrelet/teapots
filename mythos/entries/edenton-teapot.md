@@ -5,7 +5,6 @@ domain: [politics, landmark]
 mode: [effigy]
 ontology: material
 form: [monument]
-spout: no
 geography: [usa]
 year: 1905
 era: early-20th-century

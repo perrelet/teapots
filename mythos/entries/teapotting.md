@@ -5,7 +5,6 @@ domain: [computing]
 mode: [embodiment, self-reference]
 ontology: performative
 form: [meme]
-spout: yes
 geography: [australia]
 year: 2011
 era: contemporary

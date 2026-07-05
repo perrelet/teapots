@@ -5,7 +5,6 @@ domain: [theatre]
 mode: [hospitality, trickster]
 ontology: fictional
 form: [text, character]
-spout: no
 geography: [usa]
 year: 2024
 era: contemporary

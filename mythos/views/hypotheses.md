@@ -4,36 +4,7 @@
 Generated from 40 central + 2 peripheral entries.
 
 
-## 1. The spout hypothesis
-
-**14** `spout: yes` vs **22** `spout: no`. The teapot read as the vessel defined by how it gives out.
-
-
-`spout: yes` (the spout carries the meaning):
-
-- [The Assassin's Teapot](../entries/assassin-teapot.md)  ·  _material_  ·  duality
-- [The Cadogan Teapot](../entries/cadogan-teapot.md)  ·  _material_  ·  mechanism
-- [The Chocolate Teapot](../entries/chocolate-teapot.md)  ·  _linguistic_  ·  proverbial · uselessness-defied
-- ["I'm a Little Teapot"](../entries/im-a-little-teapot.md)  ·  _performative_  ·  embodiment · self-reference
-- [The Moroccan Berrad & the High Pour](../entries/moroccan-berrad.md)  ·  _material_  ·  hospitality
-- [The Sagittarius Teapot](../entries/sagittarius-teapot.md)  ·  _natural_  ·  found-form · cosmic-projection
-- [Sky Kingdom (the "Teapot Cult")](../entries/sky-kingdom.md)  ·  _material_  ·  veneration · effigy
-- [Teapot Dome Service Station](../entries/teapot-dome-station.md)  ·  _material_  ·  effigy · scandal-power
-- [The Teapot Effect](../entries/teapot-effect.md)  ·  _material_  ·  scientific-object
-- [The Teapot Emoji 🫖](../entries/teapot-emoji.md)  ·  _virtual_  ·  self-reference
-- [Teapot Rock (Wyoming)](../entries/teapot-rock.md)  ·  _natural_  ·  found-form
-- [Teapotting (2011 photo fad)](../entries/teapotting.md)  ·  _performative_  ·  embodiment · self-reference
-- [The Turkish Çaydanlık](../entries/turkish-caydanlik.md)  ·  _material_  ·  hospitality · duality
-- [The Utah Teapot](../entries/utah-teapot.md)  ·  _virtual_  ·  reference-object · formal-study
-
-Control — the `conceptual` / `refusal` teapots, all `spout: no`:
-
-- [Bunbuku Chagama (The Lucky Teakettle)](../entries/bunbuku-chagama.md)  ·  _fictional_  ·  trickster · transformation · refusal
-- [HTTP 418 "I'm a teapot"](../entries/http-418-im-a-teapot.md)  ·  _virtual_  ·  refusal · self-reference
-- [Perrelet's Teapot](../entries/perrelets-teapot.md)  ·  _conceptual_  ·  epistemological · veneration · hospitality
-- [Russell's Teapot](../entries/russells-teapot.md)  ·  _conceptual_  ·  epistemological
-
-## 2. The self-reference hypothesis (the golden-braid nucleus)
+## 1. The self-reference hypothesis (the golden-braid nucleus)
 
 **4** teapots that *name themselves*, linked by the `self-naming` tag rather than hard edges:
 
@@ -42,7 +13,7 @@ Control — the `conceptual` / `refusal` teapots, all `spout: no`:
 - [The Teapot Emoji 🫖](../entries/teapot-emoji.md)  ·  _virtual_  ·  2020
 - [Teapotting (2011 photo fad)](../entries/teapotting.md)  ·  _performative_  ·  2011
 
-## 3. Genealogy — the typed link graph
+## 2. Genealogy — the typed link graph
 
 Edges (`from --type--> to`):
 
@@ -66,13 +37,13 @@ Most-pointed-at (roots everyone descends from):
 - `teapot-dome-station` — 2 incoming
 - `im-a-little-teapot` — 1 incoming
 
-## 4. Character arcs — service vs refusal
+## 3. Character arcs — service vs refusal
 
 - **curse-restoration**: [Mrs. Potts (Beauty and the Beast)](../entries/mrs-potts.md)
 - **refusal**: [Bunbuku Chagama (The Lucky Teakettle)](../entries/bunbuku-chagama.md)
 - **service**: [The Teapot (Hans Christian Andersen)](../entries/andersens-teapot.md)
 
-## 5. Motif clusters (emergent tag threads)
+## 4. Motif clusters (emergent tag threads)
 
 - **ontology-shift**: [Bunbuku Chagama (The Lucky Teakettle)](../entries/bunbuku-chagama.md), [The Chocolate Teapot](../entries/chocolate-teapot.md), [The Utah Teapot](../entries/utah-teapot.md)
 - **trick-vessel**: [The Assassin's Teapot](../entries/assassin-teapot.md), [The Cadogan Teapot](../entries/cadogan-teapot.md)

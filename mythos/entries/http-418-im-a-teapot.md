@@ -5,7 +5,6 @@ domain: [computing]
 mode: [refusal, self-reference]
 ontology: virtual
 form: [code]
-spout: no
 geography: [internet]
 year: 1998
 era: late-20th-century

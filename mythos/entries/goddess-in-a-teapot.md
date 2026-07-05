@@ -5,7 +5,6 @@ domain: [spirituality]
 mode: [veneration]
 ontology: discursive
 form: [text]
-spout: n-a
 geography: [usa]
 year:
 era: contemporary

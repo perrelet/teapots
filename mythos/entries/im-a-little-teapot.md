@@ -5,7 +5,6 @@ domain: [music]
 mode: [embodiment, self-reference]
 ontology: performative
 form: [song]
-spout: yes
 geography: [usa]
 year: 1939
 era: mid-20th-century

@@ -5,7 +5,6 @@ domain: [literature]
 mode: [trickster, embodiment]
 ontology: fictional
 form: [character, text]
-spout: no
 geography: [uk]
 year: 1934
 era: early-20th-century

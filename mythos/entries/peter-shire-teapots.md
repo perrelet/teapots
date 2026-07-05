@@ -5,7 +5,6 @@ domain: [visual-art]
 mode: [formal-study]
 ontology: material
 form: [artwork, physical-object]
-spout: no
 geography: [usa]
 year:
 era: late-20th-century onward

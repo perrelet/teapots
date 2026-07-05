@@ -5,7 +5,6 @@ domain: [spirituality]
 mode: [hospitality, veneration]
 ontology: material
 form: [physical-object, ceremony]
-spout: no
 geography: [china]
 year:
 era: Ming-dynasty onward

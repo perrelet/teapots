@@ -5,7 +5,6 @@ domain: [design]
 mode: [mechanism]
 ontology: material
 form: [physical-object]
-spout: yes
 geography: [uk]
 year: 1830
 era: 19th-century

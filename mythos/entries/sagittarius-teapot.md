@@ -5,13 +5,12 @@ domain: [astronomy]
 mode: [found-form, cosmic-projection]
 ontology: natural
 form: [natural-formation]
-spout: yes
 geography: [cosmos]
 year:
 era: named modern (stars ancient)
 centrality: central
 stance: n-a
-tags: [pareidolia, celestial, spout]
+tags: [pareidolia, celestial]
 creator:
 source: "Asterism formed by eight bright stars of Sagittarius; the Milky Way's galactic centre lies off the spout"
 confidence: verified
@@ -30,5 +29,5 @@ lid and spout. Its finest detail is cosmic pareidolia at its best: the dense sta
 clouds of the Milky Way's centre rise from the *spout*, so the sky appears to
 show steam pouring from a celestial teapot. The same `found-form` phenomenon as
 [[teapot-rock]], projected onto the stars instead of sandstone (queryable
-together by the `pareidolia` tag). A `spout: yes` entry — the spout is what makes
-the whole picture work.
+together by the `pareidolia` tag). The spout is what makes the whole picture
+work — the dense star clouds of the galactic centre rising from it like steam.

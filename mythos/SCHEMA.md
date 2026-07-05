@@ -15,7 +15,6 @@ domain: [ ]                    # field(s) of human activity — see vocab
 mode: [ ]                     # symbolic FUNCTION — the interpretive axis
 ontology:                     # REGISTER OF EXISTENCE — single value, see below
 form: [ ]                     # how it physically manifests
-spout:                        # yes | no | n-a — is the spout itself at play?
 geography: [ ]                # where it is rooted
 year:                         # 4-digit ANCHOR year (most citation-relevant); may be empty
 era:                          # fuzzy period label, always (carries spans & undatable cases)
@@ -103,7 +102,7 @@ affordance and may be a subset.
 
 **Edges are for referential / genealogical relationships only** — one work that
 knows about, replies to, or derives from another. *Thematic* kinship (two entries
-sharing the `self-naming` or `spout` motif) is **not** an edge: it lives in `tags`
+sharing the `self-naming` or `celestial` motif) is **not** an edge: it lives in `tags`
 and is found by querying, so the golden-braid motifs stay emergent rather than
 hand-wired. Consequence: a root like Russell's teapot has **no outgoing edges** —
 everyone points *at* it — and HTTP 418's kinship to "I'm a Little Teapot" is the
@@ -178,16 +177,6 @@ event · meme · phenomenon
 > `phenomenon` — the teapot manifests as a physical *process/behaviour* rather than
 > an object (the teapot effect). Pairs with `ontology: material`.
 
-### `spout` — is the spout itself at play?
-- **yes** — the spout specifically carries the meaning (the teapot effect / the
-  dribble; the assassin's teapot's twin spouts; a teapot-shaped building's spout).
-- **no** — a teapot is present, but the spout is not the point.
-- **n-a** — no discrete spout to speak of.
-
-> Elevated from a mere tag to its own field because the **spout hypothesis**
-> (below) is a headline thesis: if it lived only in `tags`, a forgotten tag would
-> silently under-count the cluster. As a field it is deterministically queryable.
-
 ### `geography`
 uk · usa · canada-bc · malaysia · japan · china · germany · france ·
 denmark · morocco · turkey · australia · cosmos · internet · generic
@@ -211,21 +200,30 @@ skeptical · devotional · playful · earnest · n-a
 > no stance. (Retired `neutral`, which had become a dumping ground.)
 
 ### `tags` — open motif vocabulary (cross-cutting threads)
-Seeds: `spout` · `water` · `fire` · `earth-air-fire-water` · `unfalsifiability` ·
+Seeds: `water` · `fire` · `earth-air-fire-water` · `unfalsifiability` ·
 `burden-of-proof` · `brokenness-repair` · `self-naming` · `celestial` ·
 `hidden-truth` · `insulation` · `first-performance` · `conscientious-objector` ·
 `teapot-shaped-universe` · `ontology-shift` · `digital-model` · `technical-spec` ·
 `namesake` · `pareidolia` · `roadside-novelty`.
 Add freely; motifs are how the "golden braid" surfaces.
 
-## The two hypotheses this schema is built to test
+## The hypothesis this schema is built to test
 
-1. **The spout hypothesis** — the teapot is the one vessel defined by how it
-   *gives out*, not what it holds. Query `spout: yes` and watch whether it
-   correlates with `refusal` / `duality` / physics entries.
-2. **The self-reference hypothesis** — the "golden braid" is the strange loop:
-   the teapot that names itself. Query the `self-reference` mode and `self-naming`
-   tag. Currently: HTTP 418 and "I'm a Little Teapot".
+**The self-reference hypothesis** — the "golden braid" is the strange loop: the
+teapot that *names itself*. Query the `self-reference` mode and `self-naming` tag
+(currently HTTP 418, "I'm a Little Teapot", the teapot emoji 🫖, teapotting).
+
+**Narrow by definition.** Self-naming means a *reflexive declaration of
+teapot-ness* — a teapot that says, in effect, "I am a teapot." First-person
+object-narration does **not** qualify: a teapot merely *voiced* in the first person
+(Andersen's "The Teapot", 1863 — it speaks *as* a proud teapot but never declares
+its teapot-ness) is theatre, not the strange loop. Tested against this boundary and
+deliberately excluded, so the criterion stays falsifiable rather than quietly
+widening to admit every talking teapot.
+
+> A former **spout hypothesis** and its `spout` axis were retired on 2026-07-05 as
+> a false category (see changelog). The giving-out *motif* survives only in the
+> prose of entries that genuinely turn on it; it is no longer a tracked facet.
 
 ## Sub-schemas & candidate extensions
 
@@ -308,3 +306,21 @@ _No candidate extensions currently open._
   `conceptual` now = {Russell, Perrelet}, matching its definition exactly. The move
   is justified on the ontic/epistemic argument alone — flagged here so it is not
   read as tuning the corpus toward the spout hypothesis.
+- **2026-07-05** — **kintsugi**: **retired the `spout` axis entirely** — the field
+  (from all 42 entries), the `### spout` vocabulary, the `by-spout` view, the
+  gallery filter, and the "spout hypothesis." Also dropped the now-redundant `spout`
+  seed tag and its six uses (each entry's specific tags — `fluid-dynamics`,
+  `high-pour`, `two-chambers`, `pareidolia` … — already carried the content).
+  *Rationale:* a **false category**. Under the centrality gate (a real teapot is the
+  tenant), "has a spout" is ~universal and discriminates nothing; the axis's `n-a`
+  values were really "not one discrete pourable teapot" (a museum, a hill, an idiom).
+  The only non-tautological reading — "this entry is *about* the spout" — is a
+  *motif*, which by this schema's own law belongs in `tags`, not a closed field; and
+  the field failed the closed-axis test (careful readers disagreed on the soft cases
+  — emoji, Utah, Dome Station). The "spout hypothesis" was agent-originated, not from
+  the operator's inquiry (unlike `ontology` and the self-reference thread), and its
+  field-hood was a self-reinforcing artifact (posit thesis → build a field to measure
+  it → the field makes the thesis look load-bearing). *Falsification test:* a closed
+  field is unjustified if its value is ~constant across the corpus (implied by an
+  existing gate) or if careful readers disagree on it — that is a tag or a false
+  category, not an axis. The self-reference hypothesis remains (it is the operator's).

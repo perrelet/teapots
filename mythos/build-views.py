@@ -68,7 +68,7 @@ def parse(path):
     data.setdefault("links", [])
     for f in LIST_FIELDS:
         data.setdefault(f, [])
-    for s in ("name", "title", "ontology", "spout", "centrality", "stance", "year", "era"):
+    for s in ("name", "title", "ontology", "centrality", "stance", "year", "era"):
         data.setdefault(s, "")
     return data
 
@@ -80,10 +80,6 @@ peripheral = [e for e in entries if e.get("centrality") == "peripheral"]
 
 def link(e):
     return f"[{e['title']}](../entries/{e['file']})"
-
-
-def spout_badge(v):
-    return {"yes": "**yes**", "no": "no", "n-a": "n-a"}.get(v, v or "—")
 
 
 def write(name, text):
@@ -99,10 +95,10 @@ def build_ontology():
         if not rows:
             continue
         out.append(f"\n## {reg}  ({len(rows)})\n")
-        out.append("| Entry | Mode | spout | Era |")
-        out.append("|---|---|---|---|")
+        out.append("| Entry | Mode | Era |")
+        out.append("|---|---|---|")
         for e in sorted(rows, key=lambda x: x["name"]):
-            out.append(f"| {link(e)} | {' · '.join(e['mode'])} | {spout_badge(e['spout'])} | {e['era'] or '—'} |")
+            out.append(f"| {link(e)} | {' · '.join(e['mode'])} | {e['era'] or '—'} |")
     if peripheral:
         out.append("\n## peripheral (contrast set — fail the centrality gate)\n")
         out.append("| Entry | Ontology | Mode |")
@@ -124,7 +120,7 @@ def build_mode():
         seen_modes.add(mode)
         out.append(f"\n## {mode}  ({len(rows)})\n")
         for e in sorted(rows, key=lambda x: x["name"]):
-            out.append(f"- {link(e)}  ·  _{e['ontology']}_  ·  spout: {e['spout']}")
+            out.append(f"- {link(e)}  ·  _{e['ontology']}_")
     # any modes not in the ordered list
     extra = collections.Counter()
     for e in central:
@@ -152,35 +148,6 @@ def build_domain():
     return "\n".join(out) + "\n"
 
 
-# ---- by-spout ----------------------------------------------------------------
-def build_spout():
-    groups = {"yes": [], "no": [], "n-a": []}
-    for e in central:
-        groups.get(e["spout"], groups.setdefault(e["spout"], [])).append(e)
-    out = ["# Teapots by spout — the spout hypothesis view\n",
-           "Hypothesis: the teapot is the vessel defined by how it *gives out*. "
-           "If true, `spout: yes` should cluster with material/duality/mechanism/"
-           "physics/embodiment, and the conceptual/refusal teapots should be `no`.\n"]
-    # cross-tab ontology x spout
-    out.append("\n## Cross-tab: ontology × spout\n")
-    out.append("| ontology | yes | no | n-a |")
-    out.append("|---|---|---|---|")
-    for reg in REGISTERS:
-        rr = [e for e in central if e["ontology"] == reg]
-        if not rr:
-            continue
-        y = sum(1 for e in rr if e["spout"] == "yes")
-        n = sum(1 for e in rr if e["spout"] == "no")
-        na = sum(1 for e in rr if e["spout"] == "n-a")
-        out.append(f"| {reg} | {y} | {n} | {na} |")
-    for g in ("yes", "no", "n-a"):
-        rows = groups.get(g, [])
-        out.append(f"\n## spout: {g}  ({len(rows)})\n")
-        for e in sorted(rows, key=lambda x: x["name"]):
-            out.append(f"- {link(e)}  ·  _{e['ontology']}_  ·  {' · '.join(e['mode'])}")
-    return "\n".join(out) + "\n"
-
-
 # ---- hypotheses (marquee) ----------------------------------------------------
 def tagged(tag):
     return sorted([e for e in central if tag in e["tags"]], key=lambda x: x["name"])
@@ -190,30 +157,16 @@ def build_hypotheses():
     out = ["# Hypotheses & threads — the evidence view\n",
            f"Generated from {len(central)} central + {len(peripheral)} peripheral entries.\n"]
 
-    # Spout
-    ys = [e for e in central if e["spout"] == "yes"]
-    ns = [e for e in central if e["spout"] == "no"]
-    out.append("\n## 1. The spout hypothesis\n")
-    out.append(f"**{len(ys)}** `spout: yes` vs **{len(ns)}** `spout: no`. "
-               "The teapot read as the vessel defined by how it gives out.\n")
-    out.append("\n`spout: yes` (the spout carries the meaning):\n")
-    for e in ys:
-        out.append(f"- {link(e)}  ·  _{e['ontology']}_  ·  {' · '.join(e['mode'])}")
-    out.append("\nControl — the `conceptual` / `refusal` teapots, all `spout: no`:\n")
-    for e in ns:
-        if e["ontology"] in ("conceptual", "virtual") or "refusal" in e["mode"]:
-            out.append(f"- {link(e)}  ·  _{e['ontology']}_  ·  {' · '.join(e['mode'])}")
-
     # Self-reference
     sn = tagged("self-naming")
-    out.append("\n## 2. The self-reference hypothesis (the golden-braid nucleus)\n")
+    out.append("\n## 1. The self-reference hypothesis (the golden-braid nucleus)\n")
     out.append(f"**{len(sn)}** teapots that *name themselves*, linked by the "
                "`self-naming` tag rather than hard edges:\n")
     for e in sn:
         out.append(f"- {link(e)}  ·  _{e['ontology']}_  ·  {e.get('year') or '—'}")
 
     # Genealogy
-    out.append("\n## 3. Genealogy — the typed link graph\n")
+    out.append("\n## 2. Genealogy — the typed link graph\n")
     incoming = collections.Counter()
     edges = []
     for e in central + peripheral:
@@ -229,7 +182,7 @@ def build_hypotheses():
             out.append(f"- `{to}` — {n} incoming")
 
     # char:arc
-    out.append("\n## 4. Character arcs — service vs refusal\n")
+    out.append("\n## 3. Character arcs — service vs refusal\n")
     arcs = collections.defaultdict(list)
     for e in central:
         for t in e["tags"]:
@@ -240,7 +193,7 @@ def build_hypotheses():
         out.append(f"- **{arc}**: {names}")
 
     # ontology-shift & motif clusters
-    out.append("\n## 5. Motif clusters (emergent tag threads)\n")
+    out.append("\n## 4. Motif clusters (emergent tag threads)\n")
     for tag in ("ontology-shift", "trick-vessel", "object-lifecycle", "celestial", "pareidolia", "namesake"):
         rows = tagged(tag)
         if rows:
@@ -253,10 +206,9 @@ def build_index():
     return ("# Views (generated)\n\n"
             f"Derived cross-sections of the {len(central)} central + {len(peripheral)} "
             "peripheral entries. **Do not hand-edit** — run `python build-views.py`.\n\n"
-            "- [hypotheses.md](hypotheses.md) — evidence for the spout & self-reference theses, genealogy, char-arcs\n"
+            "- [hypotheses.md](hypotheses.md) — evidence for the self-reference thesis, genealogy, char-arcs\n"
             "- [by-ontology.md](by-ontology.md) — the central register axis\n"
             "- [by-mode.md](by-mode.md) — the interpretive spine\n"
-            "- [by-spout.md](by-spout.md) — the spout hypothesis cross-tab\n"
             "- [by-domain.md](by-domain.md) — field of activity\n"
             "- [gallery.html](gallery.html) — visual thumbnail gallery (view via GitHub Pages)\n")
 
@@ -282,7 +234,6 @@ write("README.md", build_index())
 write("by-ontology.md", build_ontology())
 write("by-mode.md", build_mode())
 write("by-domain.md", build_domain())
-write("by-spout.md", build_spout())
 write("hypotheses.md", build_hypotheses())
 
 (ROOT / "assets").mkdir(exist_ok=True)
@@ -290,10 +241,6 @@ write("hypotheses.md", build_hypotheses())
 
 print(f"images: {sum(1 for e in entries if e.get('image'))} (assets/CREDITS.md written)")
 print(f"entries: {len(entries)} ({len(central)} central, {len(peripheral)} peripheral)")
-print(f"spout yes/no/n-a: "
-      f"{sum(1 for e in central if e['spout']=='yes')}/"
-      f"{sum(1 for e in central if e['spout']=='no')}/"
-      f"{sum(1 for e in central if e['spout']=='n-a')}")
 print(f"self-naming: {len(tagged('self-naming'))}")
 print("wrote:", ", ".join(sorted(p.name for p in VIEWS.glob('*.md'))))
 
@@ -379,8 +326,6 @@ main{max-width:1200px;margin:0 auto;padding:14px 20px 60px;display:grid;grid-tem
 .meta h3{margin:0 0 6px;font-size:15px;line-height:1.25}
 .badges{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:5px}
 .ont{background:var(--c);color:#fff;border-radius:999px;padding:1px 8px;font-size:11px}
-.sp{border:1px solid var(--line);border-radius:999px;padding:1px 8px;font-size:11px;color:var(--muted)}
-.sp-yes{border-color:#b5651d;color:#b5651d}
 .modes{color:var(--muted);font-size:12px}
 @media (prefers-color-scheme:dark){:root{--bg:#181410;--card:#231d17;--ink:#f0e7db;--muted:#a89a88;--line:#3a3128}.thumb{background:#2c251d}}
 </style>
@@ -391,10 +336,7 @@ main{max-width:1200px;margin:0 auto;padding:14px 20px 60px;display:grid;grid-tem
 <p class="sub">A faceted taxonomy of the teapot as a central object of human meaning-making. {{N}} entries &mdash; click any card to open its page.</p>
 </header>
 <div class="bar"><span class="grouplabel">ontology</span>{{ONTBTNS}}</div>
-<div class="bar"><span class="grouplabel">spout</span>
-<button class="f" data-k="spout" data-v="yes" style="--c:#b5651d">yes</button>
-<button class="f" data-k="spout" data-v="no" style="--c:#999">no</button>
-<button class="f" data-k="spout" data-v="n-a" style="--c:#999">n-a</button>
+<div class="bar">
 <button class="clear" id="clear">clear</button>
 <input id="q" placeholder="search title">
 <span class="count" id="count"></span>
@@ -404,16 +346,15 @@ main{max-width:1200px;margin:0 auto;padding:14px 20px 60px;display:grid;grid-tem
 </main>
 <script>
 const cards=[...document.querySelectorAll('.card')];
-const active={ont:new Set(),spout:new Set()};let q='';
+const active={ont:new Set()};let q='';
 function apply(){let n=0;for(const c of cards){
  const okOnt=!active.ont.size||active.ont.has(c.dataset.ont);
- const okSp=!active.spout.size||active.spout.has(c.dataset.spout);
  const okQ=!q||c.dataset.title.indexOf(q)>-1;
- const show=okOnt&&okSp&&okQ;c.style.display=show?'':'none';if(show)n++;}
+ const show=okOnt&&okQ;c.style.display=show?'':'none';if(show)n++;}
  document.getElementById('count').textContent=n+' of '+cards.length;}
 for(const b of document.querySelectorAll('button.f')){b.onclick=()=>{const k=b.dataset.k,v=b.dataset.v;
  if(active[k].has(v)){active[k].delete(v);b.classList.remove('on');}else{active[k].add(v);b.classList.add('on');}apply();};}
-document.getElementById('clear').onclick=()=>{active.ont.clear();active.spout.clear();q='';document.getElementById('q').value='';
+document.getElementById('clear').onclick=()=>{active.ont.clear();q='';document.getElementById('q').value='';
  document.querySelectorAll('button.f.on').forEach(b=>b.classList.remove('on'));apply();};
 document.getElementById('q').oninput=e=>{q=e.target.value.toLowerCase();apply();};
 apply();
@@ -438,11 +379,10 @@ def build_gallery():
         cards.append(
             f'<a class="card{peri}" href="{BLOB}{e["file"]}" '
             f'data-ont="{e["ontology"]}" data-mode="{" ".join(e["mode"])}" '
-            f'data-spout="{e["spout"]}" data-title="{dt}" style="--c:{col}">'
+            f'data-title="{dt}" style="--c:{col}">'
             f'<div class="thumb">{inner}</div>'
             f'<div class="meta"><h3>{t}</h3>'
-            f'<div class="badges"><span class="ont">{e["ontology"]}</span>'
-            f'<span class="sp sp-{e["spout"]}">spout {e["spout"]}</span></div>'
+            f'<div class="badges"><span class="ont">{e["ontology"]}</span></div>'
             f'<div class="modes">{" &middot; ".join(e["mode"])}</div></div></a>')
     onts = sorted(set(e["ontology"] for e in central))
     ontbtns = "".join(

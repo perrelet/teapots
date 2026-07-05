@@ -5,7 +5,6 @@ domain: [film]
 mode: [transformation, trickster]
 ontology: fictional
 form: [character]
-spout: no
 geography: [usa]
 year: 2012
 era: contemporary

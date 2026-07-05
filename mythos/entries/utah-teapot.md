@@ -5,7 +5,6 @@ domain: [computing, design]
 mode: [reference-object, formal-study]
 ontology: virtual
 form: [model]
-spout: yes
 geography: [usa]
 year: 1975
 era: late-20th-century

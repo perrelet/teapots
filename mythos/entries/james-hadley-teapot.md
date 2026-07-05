@@ -5,7 +5,6 @@ domain: [visual-art]
 mode: [satire]
 ontology: material
 form: [physical-object]
-spout: no
 geography: [uk]
 year: 1882
 era: late-19th-century
