@@ -50,6 +50,41 @@ Production is a **research pipeline**: gather a dossier (primary source +
 provenance + reception + link candidates), then author in the house voice
 (warm-analytical, present tense, connects to the braid). Set `confidence` honestly.
 
+## Open threads (backlog)
+
+Durable capture of pending work and un-used research, so resuming needs no
+session context.
+
+**Entry bodies — remaining tiers** (scaffold + pipeline above; keystones done):
+- **Mid (24)** ~200–250w: assassin-teapot, baillie-lines-to-a-teapot,
+  blytons-talking-teapot, brass-teapot-film, brown-betty, cadogan-teapot,
+  cezanne-still-life-with-teapot, gong-flying-teapot, james-hadley-teapot,
+  marianne-brandt-teapot, moroccan-berrad, mrs-potts, orwell-nice-cup-of-tea,
+  sagittarius-teapot, sky-kingdom, teapot-dome-station, teapot-emoji, teapot-rock,
+  teapotting, tempest-in-a-teapot-idiom, tempest-in-a-teapot-play,
+  turkish-caydanlik, wish-dragon, yixing-gongfu
+- **Minor (6)** ~120–180w, one good fact: edenton-teapot, goddess-in-a-teapot,
+  peter-shire-teapots, teapot-hill, teapot-house-lasqueti, trenton-teapot-museum
+- **Peripheral (2)** keep brief: operation-cosmic-teapot, teapot-dome-scandal
+
+**Optional keystone enrichments** (re-derivable via web; from dossiers not yet used):
+- russells: the philosophical pushback (Garvey; van Inwagen; Plantinga's
+  disanalogy) and the parody-deity lineage (Invisible Pink Unicorn → Flying
+  Spaghetti Monster).
+- utah: further Easter eggs (the "Pipes" screensaver pre-XP; `D3DXCreateTeapot`).
+- chocolate-teapot: the idiom's 1967 first attestation (Word Histories) for a
+  fuller etymology.
+- im-a-little-teapot: the 1941 "inane novelty" line is **unverified** — confirm the
+  Newsweek citation or drop it.
+
+**Other**
+- Gallery (`views/gallery.html`): add **mode** filtering (has ontology + spout +
+  title search).
+- Turn `views/hypotheses.md` into thesis prose (the spout cross-tab finding; the
+  self-naming quartet; service-vs-refusal).
+- **12 entries have no featured image** (see README "Curatorial pass") — decide:
+  free generic substitutes / licensed images / generated fallback cards.
+
 ## Commit convention — the teapot table
 
 Format: `type(scope): summary` — imperative mood, ~70 chars, a teapot verb for the
