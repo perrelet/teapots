@@ -41,9 +41,12 @@ status*: proven, unprovable, real, imagined. So **ontology is where the thesis
 lives.** It answers one question: *in what register does this teapot exist?*
 Single primary value per entry; register-crossers get the `ontology-shift` tag.
 
-- **material** — a physical teapot or teapot-shaped object that exists(ed) in
-  the world. *(Sky Kingdom's giant teapot, Teapot Dome Station, the assassin's
-  teapot, Yixing pots, the Nestlé chocolate teapot, Brandt's teapot.)*
+- **material** — exists in physical reality: a teapot, a teapot-shaped object, or
+  a physical teapot-*phenomenon* (a behaviour of real teapots, not an object). The
+  register is "physically real," not "is an object" — the object/process split is a
+  `form` distinction, not an existence-register one. *(Sky Kingdom's giant teapot,
+  Teapot Dome Station, the assassin's teapot, Yixing pots, the Nestlé chocolate
+  teapot, Brandt's teapot; the teapot effect — a phenomenon, `form: phenomenon`.)*
 - **natural** — a teapot-*form* found or projected in nature; nobody built it a
   teapot, it is *perceived* as one. *(Teapot Rock; the Sagittarius asterism.)*
 - **fictional** — exists inside a narrative world: character, story-object, or
@@ -170,7 +173,10 @@ performative · representational · discursive
 
 ### `form` — how it manifests
 thought-experiment · text · character · song · artwork · physical-object ·
-building · monument · natural-formation · code · phrase · ceremony · model · event · meme
+building · monument · natural-formation · code · phrase · ceremony · model ·
+event · meme · phenomenon
+> `phenomenon` — the teapot manifests as a physical *process/behaviour* rather than
+> an object (the teapot effect). Pairs with `ontology: material`.
 
 ### `spout` — is the spout itself at play?
 - **yes** — the spout specifically carries the meaning (the teapot effect / the
@@ -286,3 +292,19 @@ _No candidate extensions currently open._
   too generic (yoko, tao, js-museum); moved Operation Cosmic Teapot to peripheral.
 - **2026-07-04** — completeness pass: added mode `mechanism`, form `meme`,
   geographies `morocco` / `turkey` / `australia`; +9 entries.
+- **2026-07-05** — **kintsugi**: re-registered `teapot-effect` from `conceptual`
+  → `material`, and its form from `thought-experiment` → `phenomenon`; widened the
+  `material` gloss to admit physical teapot-*phenomena* (behaviours, not objects);
+  added `phenomenon` to the `form` vocabulary. *Rationale:* `conceptual` means "a
+  posit whose very existence is contested." The teapot effect's *existence* was
+  never contested — only its explanation was (for 65 years) — so `conceptual` was
+  encoding its **epistemic** status (it's studied in physics) instead of its
+  **ontic** register (a physical process). "It's studied" is already
+  `mode: scientific-object` + `domain: physics`; carrying it in `ontology` too was
+  an **ontology↔mode orthogonality leak**, now closed. *Falsification test:* if any
+  future entry's `ontology` is chosen by *how the teapot is studied or treated*
+  rather than *where it exists*, the same leak has recurred — re-file it. *Side
+  effect, not the motive:* this removes the sole `spout: yes` + `conceptual` cell;
+  `conceptual` now = {Russell, Perrelet}, matching its definition exactly. The move
+  is justified on the ontic/epistemic argument alone — flagged here so it is not
+  read as tuning the corpus toward the spout hypothesis.

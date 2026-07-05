@@ -19,7 +19,7 @@ Generated from 40 central + 2 peripheral entries.
 - [The Sagittarius Teapot](../entries/sagittarius-teapot.md)  ·  _natural_  ·  found-form · cosmic-projection
 - [Sky Kingdom (the "Teapot Cult")](../entries/sky-kingdom.md)  ·  _material_  ·  veneration · effigy
 - [Teapot Dome Service Station](../entries/teapot-dome-station.md)  ·  _material_  ·  effigy · scandal-power
-- [The Teapot Effect](../entries/teapot-effect.md)  ·  _conceptual_  ·  scientific-object
+- [The Teapot Effect](../entries/teapot-effect.md)  ·  _material_  ·  scientific-object
 - [The Teapot Emoji 🫖](../entries/teapot-emoji.md)  ·  _virtual_  ·  self-reference
 - [Teapot Rock (Wyoming)](../entries/teapot-rock.md)  ·  _natural_  ·  found-form
 - [Teapotting (2011 photo fad)](../entries/teapotting.md)  ·  _performative_  ·  embodiment · self-reference

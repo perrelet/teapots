@@ -76,7 +76,7 @@
 ## physics  (2)
 
 - [The Chocolate Teapot](../entries/chocolate-teapot.md)  ·  _linguistic_
-- [The Teapot Effect](../entries/teapot-effect.md)  ·  _conceptual_
+- [The Teapot Effect](../entries/teapot-effect.md)  ·  _material_
 
 ## astronomy  (1)
 

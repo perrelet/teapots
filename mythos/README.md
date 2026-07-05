@@ -25,11 +25,11 @@ axis.
 |---|---|---|---|
 | [Russell's Teapot](entries/russells-teapot.md) | epistemological | no | 1952 |
 | [Perrelet's Teapot](entries/perrelets-teapot.md) | epistemological · veneration | no | contemp. |
-| [The Teapot Effect](entries/teapot-effect.md) | scientific-object | **yes** | 1956 |
 
-### material — a physical teapot / teapot-shaped object
+### material — a physical teapot, teapot-shaped object, or teapot-phenomenon
 | Entry | Mode | spout | Year |
 |---|---|---|---|
+| [The Teapot Effect](entries/teapot-effect.md) | scientific-object | **yes** | 1956 |
 | [Teapot Dome Service Station](entries/teapot-dome-station.md) | effigy · scandal-power | **yes** | 1922 |
 | [The Assassin's Teapot](entries/assassin-teapot.md) | duality | **yes** | — |
 | [Marianne Brandt's Teapot](entries/marianne-brandt-teapot.md) | formal-study | no | 1924 |

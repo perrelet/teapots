@@ -4,15 +4,14 @@
 The central/thesis axis. Each teapot's primary register of existence.
 
 
-## conceptual  (3)
+## conceptual  (2)
 
 | Entry | Mode | spout | Era |
 |---|---|---|---|
 | [Perrelet's Teapot](../entries/perrelets-teapot.md) | epistemological · veneration · hospitality | no | contemporary |
 | [Russell's Teapot](../entries/russells-teapot.md) | epistemological | no | mid-20th-century |
-| [The Teapot Effect](../entries/teapot-effect.md) | scientific-object | **yes** | mid-20th-century |
 
-## material  (16)
+## material  (17)
 
 | Entry | Mode | spout | Era |
 |---|---|---|---|
@@ -27,6 +26,7 @@ The central/thesis axis. Each teapot's primary register of existence.
 | [Peter Shire's Teapots](../entries/peter-shire-teapots.md) | formal-study | no | late-20th-century onward |
 | [Sky Kingdom (the "Teapot Cult")](../entries/sky-kingdom.md) | veneration · effigy | **yes** | contemporary |
 | [Teapot Dome Service Station](../entries/teapot-dome-station.md) | effigy · scandal-power | **yes** | early-20th-century |
+| [The Teapot Effect](../entries/teapot-effect.md) | scientific-object | **yes** | mid-20th-century |
 | [Teapot Hill (Cultus Lake)](../entries/teapot-hill.md) | collection · hospitality | n-a | contemporary |
 | [The Teapot House (Lasqueti Island)](../entries/teapot-house-lasqueti.md) | effigy · hospitality · veneration | no | built 1920s |
 | [The Trenton Teapot Museum](../entries/trenton-teapot-museum.md) | collection | n-a | mid-20th-century |

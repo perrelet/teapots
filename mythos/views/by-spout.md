@@ -8,8 +8,8 @@ Hypothesis: the teapot is the vessel defined by how it *gives out*. If true, `sp
 
 | ontology | yes | no | n-a |
 |---|---|---|---|
-| conceptual | 1 | 2 | 0 |
-| material | 6 | 8 | 2 |
+| conceptual | 0 | 2 | 0 |
+| material | 7 | 8 | 2 |
 | natural | 2 | 0 | 0 |
 | fictional | 0 | 9 | 0 |
 | virtual | 2 | 1 | 0 |
@@ -28,7 +28,7 @@ Hypothesis: the teapot is the vessel defined by how it *gives out*. If true, `sp
 - [The Sagittarius Teapot](../entries/sagittarius-teapot.md)  ·  _natural_  ·  found-form · cosmic-projection
 - [Sky Kingdom (the "Teapot Cult")](../entries/sky-kingdom.md)  ·  _material_  ·  veneration · effigy
 - [Teapot Dome Service Station](../entries/teapot-dome-station.md)  ·  _material_  ·  effigy · scandal-power
-- [The Teapot Effect](../entries/teapot-effect.md)  ·  _conceptual_  ·  scientific-object
+- [The Teapot Effect](../entries/teapot-effect.md)  ·  _material_  ·  scientific-object
 - [The Teapot Emoji 🫖](../entries/teapot-emoji.md)  ·  _virtual_  ·  self-reference
 - [Teapot Rock (Wyoming)](../entries/teapot-rock.md)  ·  _natural_  ·  found-form
 - [Teapotting (2011 photo fad)](../entries/teapotting.md)  ·  _performative_  ·  embodiment · self-reference

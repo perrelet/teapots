@@ -118,7 +118,7 @@ The interpretive spine. Entries appear under every mode they carry.
 
 ## scientific-object  (1)
 
-- [The Teapot Effect](../entries/teapot-effect.md)  ·  _conceptual_  ·  spout: yes
+- [The Teapot Effect](../entries/teapot-effect.md)  ·  _material_  ·  spout: yes
 
 ## collection  (2)
 

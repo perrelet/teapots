@@ -3,8 +3,8 @@ name: teapot-effect
 title: The Teapot Effect
 domain: [physics]
 mode: [scientific-object]
-ontology: conceptual
-form: [thought-experiment]
+ontology: material
+form: [phenomenon]
 spout: yes
 geography: [generic]
 year: 1956
@@ -53,10 +53,12 @@ slightly *uphill* first.
 
 ## In the braid
 
-This is the purest `spout: yes` entry in the whole corpus — and its strangest, the
-lone `conceptual` teapot that still turns on a spout, because the phenomenon has no
-meaning without one. It is the hard-physics core of the **spout hypothesis**: that
-the teapot is the vessel defined not by what it holds but by how it *gives out*.
+This is the purest `spout: yes` entry in the whole corpus — the one teapot that
+exists not as an object but as a *behaviour of the spout itself*, which is why its
+`form` is `phenomenon` and its register is `material` (a physical process, not a
+posit — its existence was never in doubt, only its explanation). It is the
+hard-physics core of the **spout hypothesis**: that the teapot is the vessel
+defined not by what it holds but by how it *gives out*.
 Its kin are the other spout-central entries — the twin channels of the
 [[assassin-teapot]], and the long, sharp, high-pouring spout of the
 [[moroccan-berrad]], a culturally-evolved answer to exactly the separation problem
