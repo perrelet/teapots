@@ -13,6 +13,7 @@ centrality: central
 stance: earnest
 tags: [char:agency, char:anthropomorphic, char:role-protagonist, char:arc-service, brokenness-repair, service, object-lifecycle]
 creator: "Hans Christian Andersen"
+source: "Hans Christian Andersen, 'The Teapot' (Danish 'Theepotten', first printed Dec 1863); English quotations from J. H. Stickney's public-domain 1915 translation"
 confidence: verified
 image: assets/full/andersens-teapot.png
 image_license: "Public domain"
@@ -24,11 +25,33 @@ links: []
 
 <sub>Lorenz Frolich (1820-1908), 1871 illustration for Andersen's 'The Teapot' · Public domain</sub>
 
-Andersen's teapot begins proud — boasting of its porcelain, spout and handle
-while ignoring its cracked lid — then is dropped, broken, and given to the poor.
-Silent in disgrace, it is redeemed only when someone plants a flower bulb inside
-it: for a season it becomes a vessel of living things and knows real joy, before
-being discarded again as a potsherd, at peace in memory. The archetypal
-**service arc** (`char:arc-service`): meaning found through humility and being
-of use — the exact inverse of [[bunbuku-chagama]], whose teapot finds meaning by
-*refusing* to serve.
+A late, miniature Andersen tale (Danish *Theepotten*, first printed December 1863
+in a Danish almanac), narrated in the first person by the teapot itself — one of
+his object-narrator pieces, kin to "The Darning Needle" and "The Collar." It opens
+on pure vanity:
+
+> "There was once a proud teapot; it was proud of being porcelain, proud of its
+> long spout, proud of its broad handle."
+
+What it will not mention is its one flaw — a cracked, riveted lid; "one does not
+speak of one's defects — others do that." At a tea party a nervous hand drops it,
+the spout and handle snap, and the teapot, now useless as a teapot, is given away
+to the poor. There it is redeemed by a humbler office: a flower bulb is planted in
+its body, and for one season the broken pot becomes a cradle for living growth and
+knows, for the first time, real joy. The bloom is lifted out to a proper garden
+pot; the teapot is thrown into the yard as a potsherd, and closes on its single
+consolation:
+
+> "But I have the memory, and that I can never lose."
+
+## In the braid
+
+The arc is the archetype the corpus files under `char:arc-service`: meaning found
+not in the vain prime but in humble use, and kept as memory once the use is gone.
+It is the exact **inverse** of [[bunbuku-chagama]], whose kettle *refuses* to serve
+— sprouts legs and bolts from the fire — so the two folktales bracket the whole
+service-vs-refusal axis that also reaches into HTTP 418 and the chocolate teapot.
+And it rhymes, in a quieter key, with [[baillie-lines-to-a-teapot]]: both are
+teapot *biographies* that trace one vessel from prized to discarded — Baillie's a
+social satire of lost fashion, Andersen's a spiritual reversal in which breaking
+is the beginning of grace.
