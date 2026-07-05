@@ -13,7 +13,7 @@ centrality: central
 stance: playful
 tags: [nonsense, dormouse, scoped-to-moment]
 creator: "Lewis Carroll"
-source: "Alice's Adventures in Wonderland (1865), ch. VII; the Dormouse is stuffed into the teapot"
+source: "Alice's Adventures in Wonderland (1865), ch. VII 'A Mad Tea-Party'; scoped to its closing image — the Dormouse put into the teapot"
 confidence: verified
 image: assets/full/mad-tea-party.jpg
 image_license: "Public domain"
@@ -25,9 +25,28 @@ links: []
 
 <sub>John Tenniel, 1865 · Public domain</sub>
 
-Carroll's Mad Tea Party stages tea ritual as pure disorder — riddles without
-answers, a table endlessly reset, time itself broken. Per the accessory-teapot
-rule, this entry is **scoped to the teapot-central beat**: the Dormouse being
-stuffed head-first into the teapot, the vessel as a place to *put* an inconvenient
-creature. `hospitality` inverted into `trickster` chaos. A graph hub — later works
-(the *Tempest in a Teapot* play) point back here via `mashes-up`.
+Carroll's Mad Tea Party stages the forms of Victorian hospitality — invitations,
+riddles, the pouring of tea — with their logic voided: etiquette performed as
+hostility. The Hatter has quarrelled with Time, so the clock is stuck ("it's always
+six o'clock now"), the table endlessly reset, the tea never cleared. This entry is
+scoped, per the accessory-teapot rule, to the one beat where the teapot itself is
+the subject — the party's closing image, as Alice walks out:
+
+> "…the last time she saw them, they were trying to put the Dormouse into the
+> teapot."
+
+Not *stuffed* — *trying to*: an attempt frozen in progress, the vessel turned into
+a place to put away an inconvenient guest. A teapot's whole purpose is to pour out;
+here it is inverted into a container to shove a living thing into and silence it.
+Tenniel's 1865 engraving of the party is the canonical image; Disney's 1951 film
+spun the scene into the "unbirthday," and the spinning-teacup **Mad Tea Party** ride
+(Disneyland, 1955) turned the conceit into something you can sit inside.
+
+## In the braid
+
+The Mad Tea Party is a graph hub — later work reaches back to it. Shualee Cook's
+2024 play [[tempest-in-a-teapot-play]] **mashes** it **up** with Shakespeare's *The
+Tempest*, returning an adult Alice to this very table, the title itself punning the
+scene into a "tempest in a teapot." Within the corpus it is the teapot as
+`trickster` prop rather than vessel of hospitality: the pot that, at the one moment
+it takes centre stage in Wonderland, is used not to serve but to trap.
