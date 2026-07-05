@@ -304,7 +304,7 @@ ONTCOLOR = {
     "fictional": "#c1502e", "virtual": "#2a6f97", "representational": "#8e7cc3",
     "linguistic": "#c9a227", "performative": "#c2456e", "discursive": "#3a7ca5",
 }
-BLOB = "https://github.com/perrelet/teapot-mythos/blob/main/mythos/entries/"
+BLOB = "https://github.com/perrelet/teapots/blob/main/mythos/entries/"
 
 
 def esc(s):
